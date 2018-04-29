@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"O O",
+		"OXO",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "minecraft:iron_ingot"
+		},
+		"O": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:chainmail_chestplate"
+	}
+}

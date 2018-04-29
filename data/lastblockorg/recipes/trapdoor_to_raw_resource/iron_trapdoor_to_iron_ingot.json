@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"group": "wooden_trapdoor",
+	"ingredients": [{
+		"item": "minecraft:iron_trapdoor"
+	}],
+	"result": {
+		"item": "minecraft:iron_ingot",
+		"count": 6
+	}
+}

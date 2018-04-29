@@ -1,0 +1,11 @@
+{
+	"criteria": {
+		"Function load":{
+			"trigger": "minecraft:tick"
+		}
+	},
+	"rewards": {
+		"function": "lastblockorg:main"
+	}
+	
+}

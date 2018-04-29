@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"FR",
+		"CG"
+	],
+	"key": {
+		"F": {
+			"item": "minecraft:flint"
+		},
+		"C": {
+			"item": "minecraft:coal"
+		},
+		"R": {
+			"item": "minecraft:charcoal"
+		},
+		"G": {
+			"item": "minecraft:gunpowder"
+		}
+	},
+	"result": {
+		"item": "minecraft:fire_charge"
+	}
+}

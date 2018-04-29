@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"group": "wool",
+	"ingredients": [{
+			"item": "minecraft:white_wool"
+		},
+		{
+			"item": "minecraft:dandelion_yellow"
+		}
+	],
+	"result": {
+		"item": "minecraft:yellow_wool"
+	}
+}

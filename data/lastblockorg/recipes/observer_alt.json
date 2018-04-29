@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"SSS",
+		"RCQ",
+		"SSS"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:cobblestone_slab"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"Q": {
+			"item": "minecraft:smooth_quartz"
+		},
+		"C": {
+			"item": "minecraft:comparator"
+		}
+	},
+	"result": {
+		"item": "minecraft:observer",
+		"count": 2
+	}
+}

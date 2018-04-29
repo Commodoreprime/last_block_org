@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_bark",
+    "minecraft:dark_oak_bark",
+	"minecraft:jungle_bark",
+	"minecraft:spruce_bark",
+	"minecraft:acacia_bark",
+	"minecraft:birch_bark"
+  ]
+}

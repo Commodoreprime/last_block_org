@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"RQR",
+		"S S"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:leather"
+		},
+		"R": {
+			"item": "minecraft:rabbit_hide"
+		},
+		"S": {
+			"item": "minecraft:lead"
+		},
+		"Q": {
+			"item": "minecraft:heavy_weighted_pressure_plate"
+		}
+	},
+	"result": {
+		"item": "minecraft:saddle",
+		"count": 1
+	}
+}

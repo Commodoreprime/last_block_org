@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lastblockorg:polished_stones"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone_button"
+  }
+}

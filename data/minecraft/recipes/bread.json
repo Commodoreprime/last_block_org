@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"OOO",
+		"XOF"
+	],
+	"key": {
+		"X": {
+			"item": "minecraft:water_bucket"
+		},
+		"O": {
+			"item": "minecraft:wheat"
+		},
+		"F": {
+			"item": "minecraft:fire_charge"
+		}
+	},
+	"result": {
+		"item": "minecraft:bread"
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "group": "bed",
+  "pattern": [
+    "###",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:brown_wool"
+    },
+    "X": {
+      "tag": "lastblockorg:slabs"
+    }
+  },
+  "result": {
+    "item": "minecraft:brown_bed"
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" T ",
+		"TQT",
+		"SSS"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:redstone_torch"
+		},
+		"Q": {
+			"item": "minecraft:quartz"
+		},
+		"S": {
+			"item": "minecraft:stone_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:comparator",
+		"count": 1
+	}
+}

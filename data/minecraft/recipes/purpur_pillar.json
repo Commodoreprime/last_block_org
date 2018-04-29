@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"#",
+		"B",
+		"#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:purpur_slab"
+		},
+		"B": {
+			"item": "minecraft:purpur_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:purpur_pillar",
+		"count": 2
+	}
+}

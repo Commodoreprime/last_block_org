@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"group": "wooden_trapdoor",
+	"ingredients": [{
+		"item": "minecraft:birch_trapdoor"
+	}],
+	"result": {
+		"item": "minecraft:birch_planks",
+		"count": 6
+	}
+}

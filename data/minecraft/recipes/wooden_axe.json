@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XV",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "tag": "lastblockorg:slabs"
+    },
+	"V": {
+		"tag": "minecraft:planks"
+	}
+  },
+  "result": {
+    "item": "minecraft:wooden_axe"
+  }
+}

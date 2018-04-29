@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" F ",
+		" R ",
+		"EFE"
+	],
+	"key": {
+		"R": {
+			"item": "minecraft:blaze_rod"
+		},
+		"F": {
+			"item": "minecraft:chorus_fruit_popped"
+		},
+		"E": {
+			"item": "minecraft:end_stone_bricks"
+		}
+	},
+	"result": {
+		"item": "minecraft:end_rod",
+		"count": 2
+	}
+}
