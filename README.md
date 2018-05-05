@@ -20,3 +20,7 @@ Things added/removed/changed:
 "-" = removed thing
 
 "/" = changed thing
+
+Example:
+
+'+' Recipe for thing of thing
