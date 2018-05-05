@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#B#",
+		"#T#"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bone_block"
+		},
+		"#": {
+			"item": "minecraft:dead_brain_coral_block"
+		},
+		"T": {
+			"item": "minecraft:pink_terracotta"
+		}
+	},
+	"result": {
+		"item": "minecraft:brain_coral"
+	}
+}

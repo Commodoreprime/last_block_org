@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#S#",
+		"#C#"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:cobblestone"
+		},
+		"#": {
+			"item": "minecraft:andesite"
+		},
+		"S": {
+			"item": "minecraft:stone_bricks"
+		}
+	},
+	"result": {
+		"item": "minecraft:cracked_stone_bricks"
+	}
+}

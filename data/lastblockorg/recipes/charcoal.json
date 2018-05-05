@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#I#",
+		"#F#"
+	],
+	"key": {
+		"F": {
+			"item": "minecraft:flint"
+		},
+		"#": {
+			"item": "minecraft:sea_pickle"
+		},
+		"I": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:charcoal"
+	}
+}

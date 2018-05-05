@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#B#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:red_sandstone"
+		},
+		"B": {
+			"item": "minecraft:bone_meal"
+		}
+	},
+	"result": {
+		"item": "minecraft:sandstone",
+		"count": 8
+	}
+}

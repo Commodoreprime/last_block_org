@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#B#",
+		"#L#"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bone_block"
+		},
+		"#": {
+			"item": "minecraft:dead_tube_coral_block"
+		},
+		"L": {
+			"item": "minecraft:lapis_lazuli"
+		}
+	},
+	"result": {
+		"item": "minecraft:tube_coral"
+	}
+}

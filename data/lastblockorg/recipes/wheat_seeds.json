@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"PP",
+		"P#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:kelp_top"
+		},
+		"P": {
+			"item": "minecraft:sea_pickle"
+		}
+	},
+	"result": {
+		"item": "minecraft:wheat_seeds",
+		"count": 2
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#B#",
+		"#T#"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bone_block"
+		},
+		"#": {
+			"item": "minecraft:dead_bubble_coral_block"
+		},
+		"T": {
+			"item": "minecraft:magenta_terracotta"
+		}
+	},
+	"result": {
+		"item": "minecraft:bubble_coral"
+	}
+}

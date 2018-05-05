@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"#G#",
+		"#P#",
+		"#M#"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:sea_grass"
+		},
+		"#": {
+			"item": "minecraft:kelp_top"
+		},
+		"P": {
+			"item": "minecraft:poisonous_potato"
+		},
+		"M": {
+			"item": "minecraft:red_mushroom"
+		}
+	},
+	"result": {
+		"item": "minecraft:beetroot_seeds"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#B#",
+		"#R#"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bone_block"
+		},
+		"#": {
+			"item": "minecraft:dead_fire_coral_block"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:fire_coral"
+	}
+}

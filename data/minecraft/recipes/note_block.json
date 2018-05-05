@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#T#",
+		"SRS"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:spruce_planks"
+		},
+		"S": {
+			"item": "minecraft:spruce_slab"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"T": {
+			"item": "minecraft:tripwire_hook"
+		}
+	},
+	"result": {
+		"item": "minecraft:note_block"
+	}
+}

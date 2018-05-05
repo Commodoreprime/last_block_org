@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"FCF",
+		"SGS",
+		"SSS"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:wheat_seeds"
+		},
+		"C": {
+			"item": "minecraft:coarse_dirt"
+		},
+		"F": {
+			"item": "minecraft:fern"
+		},
+		"G": {
+			"item": "minecraft:grass_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:podzol"
+	}
+}
