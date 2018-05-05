@@ -9,13 +9,9 @@
 		"#": {
 			"item": "minecraft:dried_kelp"
 		},
-		"C": [{
-				"item": "minecraft:coal"
-			},
-			{
-				"item": "minecraft:charcoal"
-			}
-		]
+		"C": {
+			"item": "minecraft:charcoal"
+		}
 	},
 	"result": {
 		"item": "minecraft:gunpowder",
