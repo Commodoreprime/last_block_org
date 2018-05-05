@@ -10,17 +10,3 @@ change log structure:
 Summary: 
 
 v#.# - Content update #
-
-Description:
-
-Things added/removed/changed:
-  
-"+" = new thing
-
-"-" = removed thing
-
-"/" = changed thing
-
-Example:
-
-'+' Recipe for thing of thing
