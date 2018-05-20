@@ -1,7 +1,7 @@
-scoreboard players set @a in.Nether 0
-scoreboard players set @a in.Overworld 0
-scoreboard players set @a in.End 0
+tag @s remove inEnd
+tag @s remove inOverworld
+tag @s remove inNether
 
-scoreboard players set @s[nbt={Dimension:-1}] in.Nether 1
-scoreboard players set @s[nbt={Dimension:0}] in.Overworld 1
-scoreboard players set @s[nbt={Dimension:1}] in.End 1
+execute as @s[nbt={Dimension:1}] run tag @s add inEnd
+execute as @s[nbt={Dimension:0}] run tag @s add inOverworld
+execute as @s[nbt={Dimension:-1}] run tag @s add inNether
