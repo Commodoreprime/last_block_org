@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" # ",
+		"/ #",
+		"N/ "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_ingot"
+		},
+		"/": {
+			"item": "minecraft:stick"
+		},
+		"N": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:shears"
+	}
+}

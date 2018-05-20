@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" # ",
+		"S #",
+		"NS "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_ingot"
+		},
+		"S": {
+			"tag": "minecraft:wooden_slabs"
+		},
+		"N": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:shears"
+	}
+}

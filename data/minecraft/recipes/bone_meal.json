@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#M#",
+		"#C#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:rotten_flesh"
+		},
+		"M": {
+			"item": "brown_mushroom"
+		},
+		"C": {
+			"item": "minecraft:fire_charge"
+		}
+	},
+	"result": {
+		"item": "minecraft:bone_meal",
+		"count": 3
+	}
+}

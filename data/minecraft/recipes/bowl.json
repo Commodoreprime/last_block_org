@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"# #",
+		" S "
+	],
+	"key": {
+		"#": {
+			"tag": "minecraft:planks"
+		},
+		"S": {
+			"tag": "minecraft:wooden_slabs"
+		}
+	},
+	"result": {
+		"item": "minecraft:bowl",
+		"count": 4
+	}
+}

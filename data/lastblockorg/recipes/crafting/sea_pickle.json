@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"KKK",
+		"#C#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:seagrass"
+		},
+		"C": {
+			"item": "minecraft:prismarine_crystals"
+		},
+		"K": {
+			"item": "minecraft:kelp_top"
+		}
+	},
+	"result": {
+		"item": "minecraft:sea_pickle"
+	}
+}
