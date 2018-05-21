@@ -2,21 +2,24 @@
 	"type": "crafting_shaped",
 	"pattern": [
 		"###",
-		"RQR",
-		"S S"
+		"MPM",
+		"TLT"
 	],
 	"key": {
 		"#": {
-			"item": "minecraft:leather"
+			"item": "minecraft:leather_chestplate"
 		},
-		"R": {
-			"item": "minecraft:rabbit_hide"
+		"M": {
+			"item": "minecraft:phantom_membrane"
 		},
-		"S": {
+		"T": {
+			"item": "minecraft:tripwire_hook"
+		},
+		"P": {
+			"item": "minecraft:light_weighted_pressure_plate"
+		},
+		"L": {
 			"item": "minecraft:lead"
-		},
-		"Q": {
-			"item": "minecraft:heavy_weighted_pressure_plate"
 		}
 	},
 	"result": {
