@@ -1,4 +1,4 @@
-# last_block_org
+# Last Block Org
 This is where the datapack is stored for LBO
 
 This is a datapack for the server Craft Manor
