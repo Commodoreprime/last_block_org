@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#X#",
+		"#O#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:nautilus_shell"
+		},
+		"X": {
+			"item": "minecraft:heart_of_the_sea"
+		},
+		"O": {
+			"item": "minecraft:observer"
+		}
+	},
+	"result": {
+		"item": "minecraft:conduit"
+	}
+}
