@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"GGG",
+		"QQQ",
+		"WCW"
+	],
+	"key": {
+		"Q": {
+			"item": "minecraft:quartz_slab"
+		},
+		"G": {
+			"item": "minecraft:glass_pane"
+		},
+		"W": {
+			"tag": "minecraft:wooden_slabs"
+		},
+		"C": {
+			"item": "minecraft:comparator"
+		}
+	},
+	"result": {
+		"item": "minecraft:daylight_detector",
+		"count": 6
+	}
+}

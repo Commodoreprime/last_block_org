@@ -1,0 +1,34 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"G#G",
+		"FBS",
+		"KWK"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:seagrass"
+		},
+		"#": {
+			"item": "minecraft:dead_brain_coral_fan"
+		},
+		"F": {
+			"item": "minecraft:fern"
+		},
+		"B": {
+			"item": "minecraft:bone"
+		},
+		"S": {
+			"item": "minecraft:sea_pickle"
+		},
+		"K": {
+			"item": "minecraft:kelp"
+		},
+		"W": {
+			"item": "minecraft:pink_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:brain_coral_fan"
+	}
+}

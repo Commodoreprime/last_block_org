@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:acacia_wood"
+		},
+		{
+			"item": "minecraft:wooden_axe"
+		}
+	],
+	"result": {
+		"item": "minecraft:acacia_planks",
+		"count": 4
+	}
+}

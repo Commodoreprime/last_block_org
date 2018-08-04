@@ -1,0 +1,35 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"GFG",
+		"KLK",
+		"B#B"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:dead_horn_coral_fan"
+		},
+		"B": {
+			"item": "minecraft:bone_meal"
+		},
+		"K": {
+			"item": "minecraft:kelp"
+		},
+		"F": {
+			"item": "minecraft:sunflower"
+		},
+		"G": {
+			"item": "minecraft:seagrass"
+		},
+		"L": [{
+				"item": "minecraft:dead_bush"
+			},
+			{
+				"item": "minecraft:brown_mushroom"
+			}
+		]
+	},
+	"result": {
+		"item": "minecraft:horn_coral"
+	}
+}

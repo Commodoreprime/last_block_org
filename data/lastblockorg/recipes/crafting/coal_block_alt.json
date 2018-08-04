@@ -1,0 +1,57 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"PCP",
+		"FWF",
+		"FFF"
+	],
+	"key": {
+		"F": {
+			"item": "minecraft:fire_charge"
+		},
+		"W": {
+			"tag": "lastblockorg:all_bark"
+		},
+		"C": {
+			"item": "minecraft:charcoal"
+		},
+		"P": [
+			{
+				"item": "minecraft:cobweb"
+			},
+			{
+				"item": "minecraft:chorus_fruit"
+			},
+			{
+				"item": "minecraft:red_tulip"
+			},
+			{
+				"item": "minecraft:dead_bush"
+			},
+			{
+				"item": "minecraft:dead_horn_coral_fan"
+			},
+			{
+				"tag": "minecraft:leaves"
+			},
+			{
+				"item": "minecraft:fern"
+			},
+			{
+				"item": "minecraft:rose_bush"
+			},
+			{
+				"item": "minecraft:tall_grass"
+			},
+			{
+				"item": "minecraft:seagrass"
+			},
+			{
+				"item": "minecraft:sea_pickle"
+			}
+		]
+	},
+	"result": {
+		"item": "minecraft:coal_block"
+	}
+}
