@@ -1,9 +1,9 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "GGG",
-    "GSG",
-    "OOO"
+    "BGB",
+    "GLG",
+    "OSO"
   ],
   "key": {
     "S": {
@@ -14,7 +14,13 @@
     },
     "O": {
       "item": "minecraft:obsidian"
-    }
+    },
+	"L": {
+		"item": "minecraft:sea_lantern"
+	},
+	"B": {
+		"item": "minecraft:blaze_powder"
+	}
   },
   "result": {
     "item": "minecraft:beacon"
