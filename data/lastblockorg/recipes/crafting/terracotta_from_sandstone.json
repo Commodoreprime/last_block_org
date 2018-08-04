@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CSC",
+		"CCC"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:sandstone"
+		},
+		"C": {
+			"item": "minecraft:clay_ball"
+		}
+	},
+	"result": {
+		"item": "minecraft:terracotta"
+	}
+}

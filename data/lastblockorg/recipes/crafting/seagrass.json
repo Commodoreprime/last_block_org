@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"KKK",
+		"KWK",
+		"KPK"
+	],
+	"key": {
+		"K": {
+			"item": "minecraft:kelp"
+		},
+		"W": {
+			"item": "minecraft:wheat_seeds"
+		},
+		"P": {
+			"item": "minecraft:sea_pickle"
+		}
+	},
+	"result": {
+		"item": "minecraft:seagrass",
+		"count": 1
+	}
+}

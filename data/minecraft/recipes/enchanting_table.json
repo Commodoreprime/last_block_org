@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" B ",
+		"DRD",
+		"D#D"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:book"
+		},
+		"#": {
+			"item": "minecraft:obsidian"
+		},
+		"D": {
+			"item": "minecraft:diamond"
+		},
+		"R": {
+			"item": "minecraft:red_carpet"
+		}
+	},
+	"result": {
+		"item": "minecraft:enchanting_table"
+	}
+}

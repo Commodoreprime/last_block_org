@@ -1,8 +1,9 @@
 {
 	"type": "crafting_shaped",
 	"pattern": [
-		" S",
-		"GR"
+		"GGG",
+		"RSG",
+		"RRR"
 	],
 	"key": {
 		"S": {
@@ -16,6 +17,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:stone_button"
+		"item": "minecraft:stone_button",
+		"count": 5
 	}
 }

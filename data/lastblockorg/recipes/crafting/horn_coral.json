@@ -17,6 +17,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:horn_coral"
+		"item": "minecraft:horn_coral",
+		"count": 4
 	}
 }

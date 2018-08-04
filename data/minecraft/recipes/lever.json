@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"S",
+		"C",
+		"RI"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:cobblestone_slab"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"I": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:lever"
+	}
+}

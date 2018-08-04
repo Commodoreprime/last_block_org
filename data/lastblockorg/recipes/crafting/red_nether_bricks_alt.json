@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"BWB",
+		"WNW",
+		"BWB"
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:nether_wart"
+		},
+		"N": {
+			"item": "minecraft:nether_bricks"
+		},
+		"B": {
+			"item": "minecraft:nether_brick"
+		}
+	},
+	"result": {
+		"item": "minecraft:red_nether_bricks"
+	}
+}

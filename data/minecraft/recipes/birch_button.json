@@ -6,7 +6,7 @@
 	],
 	"key": {
 		"S": {
-			"item": "minecraft:stone"
+			"item": "minecraft:birch_planks"
 		},
 		"R": {
 			"item": "minecraft:redstone"
@@ -15,7 +15,7 @@
 			"item": "minecraft:gold_nugget"
 		}
 	},
-	"result": {
-		"item": "minecraft:stone_button"
-	}
+  "result": {
+    "item": "minecraft:birch_button"
+  }
 }

@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"N",
+		"E"
+	],
+	"key": {
+		"N": {
+			"item": "minecraft:note_block"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "minecraft:jukebox"
+	}
+}

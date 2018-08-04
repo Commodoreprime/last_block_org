@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"MBM",
+		"#D#",
+		"MBM"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bone"
+		},
+		"M": {
+			"item": "minecraft:bone_meal"
+		},
+		"#": {
+			"item": "minecraft:dead_horn_coral_block"
+		},
+		"D": {
+			"item": "minecraft:dandelion_yellow"
+		}
+	},
+	"result": {
+		"item": "minecraft:horn_coral"
+	}
+}

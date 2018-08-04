@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"#S#",
+		"#E#",
+		"#X#"
+	],
+	"key": {
+		"#": {
+			"tag": "minecraft:planks"
+		},
+		"S": {
+			"tag": "lastblockorg:slabs"
+		},
+		"X": {
+			"item": "minecraft:tripwire_hook"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "minecraft:jukebox"
+	}
+}

@@ -17,6 +17,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:bubble_coral"
+		"item": "minecraft:bubble_coral",
+		"count": 4
 	}
 }

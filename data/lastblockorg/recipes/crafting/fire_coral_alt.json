@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"MBM",
+		"#D#",
+		"MBM"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bone"
+		},
+		"M": {
+			"item": "minecraft:bone_meal"
+		},
+		"#": {
+			"item": "minecraft:dead_fire_coral_block"
+		},
+		"D": {
+			"item": "minecraft:rose_red"
+		}
+	},
+	"result": {
+		"item": "minecraft:fire_coral"
+	}
+}

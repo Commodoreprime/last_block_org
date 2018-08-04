@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"T",
+		"I",
+		"C"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:cobblestone_slab"
+		},
+		"T": {
+			"item": "minecraft:redstone_torch"
+		},
+		"I": {
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:lever"
+	}
+}

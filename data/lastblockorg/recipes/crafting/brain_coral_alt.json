@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"MBM",
+		"#D#",
+		"MBM"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bone"
+		},
+		"M": {
+			"item": "minecraft:bone_meal"
+		},
+		"#": {
+			"item": "minecraft:dead_brain_coral_block"
+		},
+		"D": {
+			"item": "minecraft:pink_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:brain_coral"
+	}
+}
