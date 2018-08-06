@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "concrete_powder",
+  "group": "red_concrete_powder",
   "ingredients": [
     {
       "item": "minecraft:rose_red"

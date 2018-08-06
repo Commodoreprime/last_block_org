@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "group": "boat",
+  "group": "oak_boat",
   "pattern": [
     "S S",
     "# #",

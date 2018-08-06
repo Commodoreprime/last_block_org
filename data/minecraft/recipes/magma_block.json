@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "magma_block",
 	"pattern": [
 		"MMM",
 		"MMM",

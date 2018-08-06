@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "planks",
+  "group": "spruce_planks",
   "ingredients": [
     {
       "item": "minecraft:spruce_log"

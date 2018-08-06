@@ -1,5 +1,6 @@
 {
   "type": "crafting_shapeless",
+  "group": "magma_cream",
   "ingredients": [
     {
 		"item": "minecraft:blaze_powder"

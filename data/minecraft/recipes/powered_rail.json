@@ -1,5 +1,6 @@
 {
   "type": "crafting_shaped",
+  "group": "powered_rail",
   "pattern": [
     "XRX",
     "X/X",

@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "chainmail_leggings",
 	"pattern": [
 		"XXX",
 		"O O",

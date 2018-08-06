@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "note_block",
 	"pattern": [
 		"###",
 		"#T#",

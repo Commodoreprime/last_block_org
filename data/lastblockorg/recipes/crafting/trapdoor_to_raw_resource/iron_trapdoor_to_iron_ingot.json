@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shapeless",
-	"group": "wooden_trapdoor",
+	"group": "iron_ingot",
 	"ingredients": [{
 		"item": "minecraft:iron_trapdoor"
 	}],

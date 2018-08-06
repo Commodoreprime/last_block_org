@@ -1,5 +1,6 @@
 {
   "type": "crafting_shapeless",
+  "group": "pumpkin_pie",
   "ingredients": [
     {
       "item": "minecraft:pumpkin"

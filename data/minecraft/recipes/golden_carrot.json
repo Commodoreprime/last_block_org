@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "golden_carrot",
 	"pattern": [
 		"###",
 		"#X#",

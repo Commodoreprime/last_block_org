@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "furnace_minecart",
 	"pattern": [
 		"#A#",
 		"#_#"

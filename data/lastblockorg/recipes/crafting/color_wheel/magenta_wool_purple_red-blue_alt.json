@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shapeless",
-	"group": "wool",
+	"group": "magenta_wool",
 	"ingredients": [{
 			"item": "minecraft:purple_wool"
 		},

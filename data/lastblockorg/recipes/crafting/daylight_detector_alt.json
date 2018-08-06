@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "daylight_detector",
 	"pattern": [
 		"GGG",
 		"QQQ",

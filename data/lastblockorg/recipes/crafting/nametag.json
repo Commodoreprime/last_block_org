@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "name_tag",
 	"pattern": [
 		" R#",
 		" SR",
