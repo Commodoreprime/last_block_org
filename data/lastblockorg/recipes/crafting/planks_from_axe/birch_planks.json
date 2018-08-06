@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shapeless",
-	"group": "birch_planks",
 	"ingredients": [{
 			"item": "minecraft:birch_wood"
 		},

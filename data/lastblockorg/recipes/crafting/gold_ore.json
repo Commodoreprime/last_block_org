@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shaped",
-	"group": "gold_ore",
 	"pattern": [
 		"###",
 		"#B#",

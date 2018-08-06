@@ -1,14 +1,18 @@
 {
 	"type": "crafting_shapeless",
-	"group": "brown_wool",
-	"ingredients": [{
-			"item": "minecraft:light_gray_wool"
-		},
-		{
-			"item": "minecraft:cocoa_beans"
-		}
+	"ingredients": [
+	{
+		"item": "minecraft:wool",
+		"data": 8
+	},
+	{
+		"item": "minecraft:dye",
+		"data": 3
+	}
 	],
 	"result": {
-		"item": "minecraft:brown_wool"
+		"item": "minecraft:wool",
+		"data": 12,
+		"count": 1
 	}
 }

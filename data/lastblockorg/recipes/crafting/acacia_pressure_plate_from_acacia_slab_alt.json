@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "group": "acacia_pressure_plate",
+  "group": "wooden_pressure_plate",
   "pattern": [
     "###"
   ],

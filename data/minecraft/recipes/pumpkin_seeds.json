@@ -1,6 +1,5 @@
 {
   "type": "crafting_shapeless",
-  "group": "pumpkin_seeds",
   "ingredients": [
     {
       "item": "minecraft:pumpkin"

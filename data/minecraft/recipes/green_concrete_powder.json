@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "green_concrete_powder",
+  "group": "concrete_powder",
   "ingredients": [
     {
       "item": "minecraft:cactus_green"

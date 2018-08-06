@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shaped",
-	"group": "coal_block",
 	"pattern": [
 		"PCP",
 		"FWF",

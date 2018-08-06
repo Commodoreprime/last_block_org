@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "cyan_concrete_powder",
+  "group": "concrete_powder",
   "ingredients": [
     {
       "item": "minecraft:cyan_dye"

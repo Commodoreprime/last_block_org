@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shapeless",
-	"group": "oak_planks",
 	"ingredients": [{
 			"item": "minecraft:oak_door"
 		},

@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "group": "white_bed",
+  "group": "bed",
   "pattern": [
     "###",
     "XXX"

@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "birch_slab",
+	"group": "wooden_pressure_plate",
 	"pattern": [
 		"###",
 		"###"

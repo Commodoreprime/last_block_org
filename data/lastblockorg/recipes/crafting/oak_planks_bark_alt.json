@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "oak_planks",
+  "group": "planks",
   "ingredients": [
     {
       "item": "minecraft:oak_bark"

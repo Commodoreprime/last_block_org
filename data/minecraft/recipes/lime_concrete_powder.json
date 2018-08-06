@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "lime_concrete_powder",
+  "group": "concrete_powder",
   "ingredients": [
     {
       "item": "minecraft:lime_dye"

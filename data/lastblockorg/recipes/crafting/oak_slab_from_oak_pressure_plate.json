@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "oak_slab",
+	"group": "wooden_pressure_plate",
 	"pattern": [
 		"###",
 		"###"

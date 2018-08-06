@@ -1,6 +1,5 @@
 {
   "type": "crafting_shaped",
-  "group": "activator_rail",
   "pattern": [
     "XSX",
     "X#X",

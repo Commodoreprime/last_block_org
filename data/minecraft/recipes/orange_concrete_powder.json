@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "orange_concrete_powder",
+  "group": "concrete_powder",
   "ingredients": [
     {
       "item": "minecraft:orange_dye"

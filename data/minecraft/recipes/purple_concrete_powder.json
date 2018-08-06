@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "purple_concrete_powder",
+  "group": "concrete_powder",
   "ingredients": [
     {
       "item": "minecraft:purple_dye"

@@ -1,6 +1,6 @@
 {
   "type": "crafting_shapeless",
-  "group": "yellow_concrete_powder",
+  "group": "concrete_powder",
   "ingredients": [
     {
       "item": "minecraft:dandelion_yellow"

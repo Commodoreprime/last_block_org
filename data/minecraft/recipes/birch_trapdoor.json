@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "group": "birch_trapdoor",
+  "group": "wooden_trapdoor",
   "pattern": [
     "###",
     "###"

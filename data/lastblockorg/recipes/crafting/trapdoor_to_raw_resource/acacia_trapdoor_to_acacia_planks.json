@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shapeless",
-	"group": "acacia_planks",
+	"group": "wooden_trapdoor",
 	"ingredients": [{
 		"item": "minecraft:acacia_trapdoor"
 	}],

@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "group": "white_stained_glass_pane",
+  "group": "stained_glass_pane",
   "pattern": [
     "###",
     "###"

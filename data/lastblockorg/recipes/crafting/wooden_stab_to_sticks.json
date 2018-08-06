@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "group": "stick",
+  "group": "wooden_slab",
   "pattern": [
     "##"
   ],

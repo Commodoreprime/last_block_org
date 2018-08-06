@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shapeless",
-	"group": "flint_and_steel",
 	"ingredients": [{
 			"item": "minecraft:iron_ingot"
 		},

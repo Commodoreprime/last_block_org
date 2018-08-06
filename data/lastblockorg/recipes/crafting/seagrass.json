@@ -1,23 +1,23 @@
 {
 	"type": "crafting_shaped",
-	"group": "seagrass",
 	"pattern": [
-		"###",
-		"#S#",
-		"#P#"
+		"KKK",
+		"KWK",
+		"KPK"
 	],
 	"key": {
-		"S": {
-			"item": "minecraft:wheat_seeds"
+		"K": {
+			"item": "minecraft:kelp"
 		},
-		"#": {
-			"item": "minecraft:kelp_top"
+		"W": {
+			"item": "minecraft:wheat_seeds"
 		},
 		"P": {
 			"item": "minecraft:sea_pickle"
 		}
 	},
 	"result": {
-		"item": "minecraft:seagrass"
+		"item": "minecraft:seagrass",
+		"count": 1
 	}
 }
