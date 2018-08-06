@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shapeless",
-	"group": "wooden_trapdoor",
+	"group": "dark_oak_planks",
 	"ingredients": [{
 		"item": "minecraft:dark_oak_trapdoor"
 	}],

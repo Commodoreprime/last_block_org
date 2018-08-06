@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "purpur_pillar",
 	"pattern": [
 		"#",
 		"B",

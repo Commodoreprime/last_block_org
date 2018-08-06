@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "stone_button",
 	"pattern": [
 		"GGG",
 		"RSG",

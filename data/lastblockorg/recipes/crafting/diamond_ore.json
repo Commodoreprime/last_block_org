@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "diamond_ore",
 	"pattern": [
 		"###",
 		"#B#",

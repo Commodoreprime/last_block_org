@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "fire_coral",
 	"pattern": [
 		"MBM",
 		"#D#",

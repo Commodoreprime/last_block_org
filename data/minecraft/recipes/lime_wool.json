@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shapeless",
-	"group": "wool",
+	"group": "lime_wool",
 	"ingredients": [{
 			"item": "minecraft:white_wool"
 		},

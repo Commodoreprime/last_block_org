@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"group": "detector_rail",
 	"pattern": [
 		"/W/",
 		"///",

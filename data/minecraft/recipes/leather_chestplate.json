@@ -1,5 +1,6 @@
 {
   "type": "crafting_shaped",
+  "group": "leather_chestplate",
   "pattern": [
     "V V",
     "VXV",

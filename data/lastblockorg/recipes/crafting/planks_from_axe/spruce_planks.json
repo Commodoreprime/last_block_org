@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shapeless",
+	"group": "spruce_planks",
 	"ingredients": [{
 			"item": "minecraft:spruce_wood"
 		},
