@@ -1,6 +1,6 @@
 {
 	"values": [
-		"lastblockorg:load/presetup"
+		"lastblockorg:load/presetup",
 		"lastblockorg:load/enter"
 	]
 }

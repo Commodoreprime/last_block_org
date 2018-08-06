@@ -8,10 +8,10 @@
 	],
 	"key": {
 		"G": {
-			"item": "minecraft:sea_grass"
+			"item": "minecraft:seagrass"
 		},
 		"#": {
-			"item": "minecraft:kelp_top"
+			"item": "minecraft:kelp"
 		},
 		"P": {
 			"item": "minecraft:poisonous_potato"

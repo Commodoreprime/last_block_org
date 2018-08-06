@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "group": "prismarine_bricks_stairs",
+  "group": "prismarine_brick_stairs",
   "pattern": [
     "#  ",
     "## ",
@@ -12,7 +12,7 @@
     }
   },
   "result": {
-    "item": "minecraft:prismarine_bricks_stairs",
+    "item": "minecraft:prismarine_brick_stairs",
     "count": 2
   }
 }

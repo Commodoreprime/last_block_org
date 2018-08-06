@@ -1,17 +1,17 @@
 {
   "type": "crafting_shaped",
-  "group": "oak_bark",
+  "group": "dark_oak_wood",
   "pattern": [
     "##",
     "##"
   ],
   "key": {
     "#": {
-      "item": "minecraft:oak_log"
+      "item": "minecraft:dark_oak_log"
     }
   },
   "result": {
-    "item": "minecraft:oak_bark",
+    "item": "minecraft:dark_oak_wood",
     "count": 2
   }
 }

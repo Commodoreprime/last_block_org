@@ -1,18 +1,18 @@
 {
-  "type": "crafting_shaped",
-  "group": "leather",
-  "pattern": [
-    "###",
-    "###",
-	"###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:rabbit_hide"
-    }
-  },
-  "result": {
-    "item": "minecraft:leather"
-	"count": 2
-  }
+	"type": "crafting_shaped",
+	"group": "leather",
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:rabbit_hide"
+		}
+	},
+	"result": {
+		"item": "minecraft:leather",
+		"count": 2
+	}
 }

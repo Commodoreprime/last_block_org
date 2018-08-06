@@ -1,17 +1,17 @@
 {
   "type": "crafting_shaped",
-  "group": "jungle_bark",
+  "group": "oak_wood",
   "pattern": [
     "##",
     "##"
   ],
   "key": {
     "#": {
-      "item": "minecraft:jungle_log"
+      "item": "minecraft:oak_log"
     }
   },
   "result": {
-    "item": "minecraft:jungle_bark",
+    "item": "minecraft:oak_wood",
     "count": 2
   }
 }

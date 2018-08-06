@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "group": "prismarine_bricks_slab",
+  "group": "prismarine_brick_slab",
   "pattern": [
     "###"
   ],
@@ -10,7 +10,7 @@
     }
   },
   "result": {
-    "item": "minecraft:prismarine_bricks_slab",
+    "item": "minecraft:prismarine_brick_slab",
     "count": 1
   }
 }

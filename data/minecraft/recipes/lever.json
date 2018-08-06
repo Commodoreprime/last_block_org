@@ -2,8 +2,8 @@
 	"type": "crafting_shaped",
 	"group": "lever",
 	"pattern": [
-		"S",
-		"C",
+		"S ",
+		"C ",
 		"RI"
 	],
 	"key": {
