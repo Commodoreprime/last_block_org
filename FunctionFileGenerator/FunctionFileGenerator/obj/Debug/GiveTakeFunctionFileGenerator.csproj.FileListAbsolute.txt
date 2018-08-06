@@ -1,0 +1,7 @@
+C:\Users\Commodore\AppData\Roaming\.minecraft\versions\snapshot_folder\saves\New World-\datapacks\last_block_org\FunctionFileGenerator\FunctionFileGenerator\bin\Debug\FunctionFileGenerator.exe.config
+C:\Users\Commodore\AppData\Roaming\.minecraft\versions\snapshot_folder\saves\New World-\datapacks\last_block_org\FunctionFileGenerator\FunctionFileGenerator\bin\Debug\FunctionFileGenerator.exe
+C:\Users\Commodore\AppData\Roaming\.minecraft\versions\snapshot_folder\saves\New World-\datapacks\last_block_org\FunctionFileGenerator\FunctionFileGenerator\bin\Debug\FunctionFileGenerator.pdb
+C:\Users\Commodore\AppData\Roaming\.minecraft\versions\snapshot_folder\saves\New World-\datapacks\last_block_org\FunctionFileGenerator\FunctionFileGenerator\obj\Debug\GiveTakeFunctionFileGenerator.csprojAssemblyReference.cache
+C:\Users\Commodore\AppData\Roaming\.minecraft\versions\snapshot_folder\saves\New World-\datapacks\last_block_org\FunctionFileGenerator\FunctionFileGenerator\obj\Debug\GiveTakeFunctionFileGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Commodore\AppData\Roaming\.minecraft\versions\snapshot_folder\saves\New World-\datapacks\last_block_org\FunctionFileGenerator\FunctionFileGenerator\obj\Debug\FunctionFileGenerator.exe
+C:\Users\Commodore\AppData\Roaming\.minecraft\versions\snapshot_folder\saves\New World-\datapacks\last_block_org\FunctionFileGenerator\FunctionFileGenerator\obj\Debug\FunctionFileGenerator.pdb
