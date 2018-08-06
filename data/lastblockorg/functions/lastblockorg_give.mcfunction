@@ -84,7 +84,6 @@ recipe give @s crafting/red_sandstone_alt
 recipe give @s crafting/red_sandstone_alt_from_sandstone_orange_dye
 recipe give @s crafting/red_sandstone_alt_from_sandstone_rose_red
 recipe give @s crafting/saddle
-recipe give @s crafting/saddle_alt(DISABLED)
 recipe give @s crafting/sandstone_alt
 recipe give @s crafting/sandstone_alt_from_red_sandstone_bonemeal
 recipe give @s crafting/sandstone_alt_from_red_sandstone_dandelion_yellow
