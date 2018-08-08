@@ -2,22 +2,19 @@
 	"type": "crafting_shaped",
 	"group": "lever",
 	"pattern": [
-		"/ ",
-		"RI",
-		"_ "
+		"T",
+		"I",
+		"C"
 	],
 	"key": {
-		"/": {
-			"item": "minecraft:stick"
+		"C": {
+			"item": "minecraft:cobblestone_slab"
 		},
-		"R": {
-			"item": "minecraft:redstone"
+		"T": {
+			"item": "minecraft:redstone_torch"
 		},
 		"I": {
 			"item": "minecraft:iron_nugget"
-		},
-		"_": {
-			"item": "minecraft:cobblestone_slab"
 		}
 	},
 	"result": {
