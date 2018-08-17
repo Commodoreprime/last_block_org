@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shapeless",
+	"group": "green_wool",
+	"ingredients": [{
+			"item": "minecraft:yellow_wool"
+		},
+		{
+			"item": "minecraft:lapis_lazuli"
+		}
+	],
+	"result": {
+		"item": "minecraft:green_wool",
+		"count": 1
+	}
+}

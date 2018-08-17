@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+	"group":"jungle_slab",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:jungle_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:jungle_slab",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "purple_stained_glass"
+    "pattern": [
+        "#G#",
+        "GGG",
+        "GLG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bubble_coral_fan"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:purple_stained_glass",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "tube_coral_block",
+    "pattern": [
+        "#H#",
+        "HBH",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:tube_coral"
+        },
+        "H": {
+            "item": "minecraft:tube_coral_fan"
+        },
+        "B": {
+            "item": "minecraft:bone_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:tube_coral_block",
+        "count": 1
+    }
+}

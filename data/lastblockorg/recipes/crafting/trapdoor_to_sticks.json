@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+	"group": "stick",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "lastblockorg:wooden_trapdoors"
+        }
+    },
+    "result": {
+        "item": "minecraft:stick",
+        "count": 16
+    }
+}

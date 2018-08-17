@@ -1,0 +1,36 @@
+{
+    "type": "crafting_shaped",
+	"group": "dragon_egg",
+    "pattern": [
+        "#D#",
+        "ETE",
+        "PRH"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "D": {
+            "item": "minecraft:dragon_head"
+        },
+        "E": {
+            "item": "minecraft:elytra"
+        },
+        "T": {
+            "item": "minecraft:turtle_egg"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "R": {
+            "item": "minecraft:dragon_breath"
+        },
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_egg",
+        "count": 1
+    }
+}

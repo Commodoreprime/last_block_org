@@ -1,18 +1,24 @@
 {
-  "type": "crafting_shaped",
-  "group": "glass_bottle",
-  "pattern": [
-    " # ",
-    "# #",
-	"###"
-  ],
-  "key": {
-    "#": {
-      "tag": "lastblockorg:all_glass"
+    "type": "crafting_shaped",
+	"group": "glass_bottle",
+    "pattern": [
+        " # ",
+        "#O#",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass_pane"
+        },
+        "O": {
+            "item": "minecraft:oak_button"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+        "item": "minecraft:glass_bottle",
+        "count": 4
     }
-  },
-  "result": {
-    "item": "minecraft:glass_bottle",
-    "count": 4
-  }
 }

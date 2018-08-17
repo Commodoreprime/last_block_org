@@ -1,0 +1,33 @@
+{
+    "type": "crafting_shaped",
+	"group": "sticky_piston",
+    "pattern": [
+        "#O#",
+        "iHi",
+        "PDP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:slime_ball"
+        },
+        "O": {
+            "item": "minecraft:oak_trapdoor"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "H": {
+            "item": "minecraft:oak_fence"
+        },
+        "P": {
+            "item": "minecraft:polished_andesite"
+        },
+        "D": {
+            "item": "minecraft:dropper"
+        }
+    },
+    "result": {
+        "item": "minecraft:sticky_piston",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "end_crystal",
+    "pattern": [
+        "###",
+        "#E#",
+        "PGP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass_pane"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "P": {
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_crystal",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "sand",
+    "pattern": [
+        "###",
+        "#R#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dandelion_yellow"
+        },
+        "R": {
+            "item": "minecraft:red_sand"
+        }
+    },
+    "result": {
+        "item": "minecraft:sand",
+        "count": 1
+    }
+}

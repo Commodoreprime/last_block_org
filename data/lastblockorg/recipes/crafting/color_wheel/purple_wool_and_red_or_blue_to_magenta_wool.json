@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shapeless",
+	"group": "magenta_wool",
+	"ingredients": [{
+			"item": "minecraft:purple_wool"
+		},
+		[{
+				"item": "minecraft:rose_red"
+			},
+			{
+				"item": "minecraft:lapis_lazuli"
+			}
+		]
+	],
+	"result": {
+		"item": "minecraft:magenta_wool",
+		"count": 1
+	},
+}

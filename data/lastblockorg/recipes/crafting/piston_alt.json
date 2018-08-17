@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+	"group": "piston",
+    "pattern": [
+        "iOi",
+        "PDP",
+        "PEP"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "O": {
+            "item": "minecraft:oak_trapdoor"
+        },
+        "P": {
+            "item": "minecraft:polished_andesite"
+        },
+        "D": {
+            "item": "minecraft:oak_fence"
+        },
+        "E": {
+            "item": "minecraft:dropper"
+        }
+    },
+    "result": {
+        "item": "minecraft:piston",
+        "count": 1
+    }
+}

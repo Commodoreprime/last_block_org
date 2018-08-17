@@ -1,0 +1,33 @@
+{
+    "type": "crafting_shaped",
+	"group": "piston",
+    "pattern": [
+        "iOi",
+        "CIC",
+        "PRP"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "O": {
+            "item": "minecraft:oak_trapdoor"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "I": {
+            "item": "minecraft:oak_fence"
+        },
+        "P": {
+            "item": "minecraft:polished_andesite"
+        },
+        "R": {
+            "item": "minecraft:repeater"
+        }
+    },
+    "result": {
+        "item": "minecraft:piston",
+        "count": 1
+    }
+}

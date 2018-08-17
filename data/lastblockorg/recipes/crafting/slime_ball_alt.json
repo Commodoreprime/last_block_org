@@ -1,0 +1,33 @@
+{
+    "type": "crafting_shaped",
+	"group": "slime_ball",
+    "pattern": [
+        "#L#",
+        "TMT",
+        "SWS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:kelp"
+        },
+        "L": {
+            "item": "minecraft:lime_dye"
+        },
+        "T": {
+            "item": "minecraft:tall_grass"
+        },
+        "M": {
+            "item": "minecraft:magma_cream"
+        },
+        "S": {
+            "item": "minecraft:seagrass"
+        },
+        "W": {
+            "item": "minecraft:sea_pickle"
+        }
+    },
+    "result": {
+        "item": "minecraft:slime_ball",
+        "count": 1
+    }
+}

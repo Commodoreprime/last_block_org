@@ -1,27 +1,27 @@
 {
     "type": "crafting_shaped",
-	"group": "dropper",
+	"group": "dispenser",
     "pattern": [
         "###",
-        "#T#",
-        "_C_"
+        "#B#",
+        "_T_"
     ],
     "key": {
         "#": {
             "item": "minecraft:polished_andesite"
         },
-        "T": {
-            "item": "minecraft:tripwire_hook"
+        "B": {
+            "item": "minecraft:bow"
         },
         "_": {
             "item": "minecraft:stone_slab"
         },
-        "C": {
-            "item": "minecraft:cobblestone"
+        "T": {
+            "item": "minecraft:tripwire_hook"
         }
     },
     "result": {
-        "item": "minecraft:dropper",
+        "item": "minecraft:dispenser",
         "count": 1
     }
 }

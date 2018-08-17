@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+	"group":"acacia_slab",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:acacia_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:acacia_slab",
+        "count": 1
+    }
+}

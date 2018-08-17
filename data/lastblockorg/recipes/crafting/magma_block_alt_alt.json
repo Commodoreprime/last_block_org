@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+	"group": "magma_block",
+    "pattern": [
+        "###",
+        "DHD",
+        "CLC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:granite"
+        },
+        "D": {
+            "item": "minecraft:dead_brain_coral_block"
+        },
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:magma_block",
+        "count": 64
+    }
+}

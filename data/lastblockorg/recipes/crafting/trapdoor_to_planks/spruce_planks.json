@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+	"group":"spruce_planks",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:spruce_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:spruce_planks",
+        "count": 1
+    }
+}

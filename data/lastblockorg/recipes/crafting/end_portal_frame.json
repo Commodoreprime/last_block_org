@@ -1,0 +1,33 @@
+{
+    "type": "crafting_shaped",
+	"group": "end_portal_frame",
+    "pattern": [
+        "_E_",
+        "MOM",
+        "WNW"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:dark_prismarine_slab"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "M": {
+            "item": "minecraft:end_stone"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "W": {
+            "item": "minecraft:end_stone_bricks"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_portal_frame",
+        "count": 1
+    }
+}

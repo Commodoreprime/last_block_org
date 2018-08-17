@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"group": "fire_coral_block",
+	"pattern": [
+		"#F#",
+		"FBF",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:fire_coral"
+		},
+		"F": {
+			"item": "minecraft:fire_coral_fan"
+		},
+		"B": {
+			"item": "minecraft:bone_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:fire_coral_block",
+		"count": 1
+	}
+}
