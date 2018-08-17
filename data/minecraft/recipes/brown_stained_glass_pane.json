@@ -1,16 +1,27 @@
 {
-  "type": "crafting_shaped",
-  "group": "brown_stained_glass_pane",
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:brown_stained_glass"
+    "type": "crafting_shaped",
+	"group": "brown_stained_glass_pane",
+    "pattern": [
+        "#GC",
+        "GGG",
+        "GBG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coarse_dirt"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "C": {
+            "item": "minecraft:cocoa_beans"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:brown_stained_glass_pane",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:brown_stained_glass_pane"
-  }
 }

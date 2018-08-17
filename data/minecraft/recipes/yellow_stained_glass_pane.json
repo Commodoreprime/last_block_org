@@ -1,16 +1,24 @@
 {
-  "type": "crafting_shaped",
-  "group": "yellow_stained_glass_pane",
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:yellow_stained_glass"
+    "type": "crafting_shaped",
+	"group": "yellow_stained_glass_pane",
+    "pattern": [
+        "#G#",
+        "GGG",
+        "GBG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:horn_coral"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:yellow_stained_glass_pane",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:yellow_stained_glass_pane"
-  }
 }

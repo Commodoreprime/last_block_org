@@ -1,16 +1,27 @@
 {
-  "type": "crafting_shaped",
-  "group": "black_stained_glass_pane",
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:black_stained_glass"
+    "type": "crafting_shaped",
+	"group": "black_stained_glass_pane",
+    "pattern": [
+        "#GD",
+        "GGG",
+        "GBG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal_block"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "D": {
+            "item": "minecraft:dried_kelp_block"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:black_stained_glass_pane",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:black_stained_glass_pane"
-  }
 }
