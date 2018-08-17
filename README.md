@@ -1,1 +1,3 @@
 Technical info will go here eventually...
+
+Note to self: modify the pack.mcmeta last so you can push a version release commit to dev so you dont get confused later.
