@@ -1,20 +1,20 @@
 {
-  "type": "crafting_shaped",
-  "group": "stone_axe",
-  "pattern": [
-    "XX",
-    "X#",
-    " #"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
-      "tag": "lastblockorg:polished_stones"
-    }
-  },
-  "result": {
-    "item": "minecraft:stone_axe"
-  }
+	"type": "crafting_shaped",
+	"group": "stone_axe",
+	"pattern": [
+		"XX",
+		"X#",
+		" #"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"X": {
+			"item": "minecraft:stone"
+		}
+	},
+	"result": {
+		"item": "minecraft:stone_axe"
+	}
 }

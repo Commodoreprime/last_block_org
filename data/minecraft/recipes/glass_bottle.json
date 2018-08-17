@@ -1,24 +1,28 @@
 {
-    "type": "crafting_shaped",
+	"type": "crafting_shaped",
 	"group": "glass_bottle",
-    "pattern": [
-        " # ",
-        "#O#",
-        "GGG"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:glass_pane"
-        },
-        "O": {
-            "item": "minecraft:oak_button"
-        },
-        "G": {
-            "item": "minecraft:glass"
-        }
-    },
-    "result": {
-        "item": "minecraft:glass_bottle",
-        "count": 4
-    }
+	"pattern": [
+		" # ",
+		"#O#",
+		"GGG"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:glass_pane"
+		},
+		"O": [{
+				"item": "minecraft:oak_button"
+			},
+			{
+				"item": "minecraft:rabbit_hide"
+			}
+		],
+		"G": {
+			"item": "minecraft:glass"
+		}
+	},
+	"result": {
+		"item": "minecraft:glass_bottle",
+		"count": 4
+	}
 }
