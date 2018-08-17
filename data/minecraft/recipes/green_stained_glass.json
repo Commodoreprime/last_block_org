@@ -1,21 +1,27 @@
 {
-  "type": "crafting_shaped",
-  "group": "stained_glass",
-  "pattern": [
-    "###",
-    "#X#",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:glass"
+    "type": "crafting_shaped",
+	"group": "green_stained_glass",
+    "pattern": [
+        "#GC",
+        "GGG",
+        "GBG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar_cane"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "C": {
+            "item": "minecraft:cactus_green"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
     },
-    "X": {
-      "item": "minecraft:cactus_green"
+    "result": {
+        "item": "minecraft:green_stained_glass",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:green_stained_glass",
-    "count": 8
-  }
 }
