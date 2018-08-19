@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+	"group": "jungle_pressure_plate",
+    "ingredients": [
+        {
+            "item": "minecraft:jungle_trapdoor"
+        }
+    ],
+    "result": {
+        "item": "minecraft:jungle_pressure_plate",
+        "count": 3
+    }
+}

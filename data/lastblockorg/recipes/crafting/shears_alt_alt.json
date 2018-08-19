@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+	"group": "shears",
+    "pattern": [
+        "# ",
+        "OH"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_nugget"
+        },
+        "O": {
+            "item": "minecraft:oak_stairs"
+        },
+        "H": {
+            "item": "minecraft:heavy_weighted_pressure_plate"
+        }
+    },
+    "result": {
+        "item": "minecraft:shears"
+    }
+}

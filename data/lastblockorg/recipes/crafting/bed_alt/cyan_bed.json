@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "cyan_bed",
+    "pattern": [
+        " # ",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cyan_dye"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:cyan_bed",
+        "count": 1
+    }
+}

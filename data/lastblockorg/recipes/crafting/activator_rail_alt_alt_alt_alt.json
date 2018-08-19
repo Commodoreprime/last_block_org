@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "activator_rail",
+    "pattern": [
+        "#L ",
+        "#LR",
+        "#L "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_trapdoor"
+        },
+        "L": {
+            "item": "minecraft:ladder"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:activator_rail",
+        "count": 48
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "white_bed",
+    "pattern": [
+        " # ",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_bed",
+        "count": 1
+    }
+}

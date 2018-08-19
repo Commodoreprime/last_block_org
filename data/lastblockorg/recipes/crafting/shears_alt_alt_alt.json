@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+	"group": "shears",
+    "pattern": [
+        "g ",
+        "Og"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "O": {
+            "item": "minecraft:oak_stairs"
+        }
+    },
+    "result": {
+        "item": "minecraft:shears",
+        "count": 3
+    }
+}

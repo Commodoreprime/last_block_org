@@ -1,24 +1,27 @@
 {
-	"type": "crafting_shaped",
+    "type": "crafting_shaped",
 	"group": "detector_rail",
-	"pattern": [
-		"/W/",
-		"///",
-		"/R/"
-	],
-	"key": {
-		"/": {
-			"item": "minecraft:stick"
-		},
-		"R": {
-			"item": "minecraft:redstone"
-		},
-		"W": {
-			"item": "minecraft:heavy_weighted_pressure_plate"
-		}
-	},
-	"result": {
-		"item": "minecraft:detector_rail",
-		"count": 4
-	}
+    "pattern": [
+        "iHi",
+        "i/i",
+        "iRi"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "H": {
+            "item": "minecraft:heavy_weighted_pressure_plate"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:detector_rail",
+        "count": 4
+    }
 }

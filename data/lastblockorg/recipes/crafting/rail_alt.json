@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "rail",
+    "pattern": [
+        "#L",
+        "#L",
+        "#L"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_trapdoor"
+        },
+        "L": {
+            "item": "minecraft:ladder"
+        }
+    },
+    "result": {
+        "item": "minecraft:rail",
+        "count": 48
+    }
+}

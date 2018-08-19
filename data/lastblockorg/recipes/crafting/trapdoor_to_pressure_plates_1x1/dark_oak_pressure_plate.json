@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+	"group": "dark_oak_pressure_plate",
+    "ingredients": [
+        {
+            "item": "minecraft:dark_oak_trapdoor"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dark_oak_pressure_plate",
+        "count": 3
+    }
+}

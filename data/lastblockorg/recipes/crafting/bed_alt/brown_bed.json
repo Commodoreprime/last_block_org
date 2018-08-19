@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "brown_bed",
+    "pattern": [
+        " # ",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cocoa_beans"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:brown_bed",
+        "count": 1
+    }
+}

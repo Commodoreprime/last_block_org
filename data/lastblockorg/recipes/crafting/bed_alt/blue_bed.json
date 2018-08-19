@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "blue_bed",
+    "pattern": [
+        " # ",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:blue_bed",
+        "count": 1
+    }
+}

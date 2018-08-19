@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"group": "birch_planks",
+	"pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+	"key": {
+		"#": {
+			"item": "minecraft:stripped_birch_log"
+		}
+	},
+	"result": {
+		"item": "minecraft:birch_planks",
+		"count": 30
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "red_bed",
+    "pattern": [
+        " # ",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rose_red"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_bed",
+        "count": 1
+    }
+}

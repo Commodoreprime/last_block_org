@@ -1,18 +1,18 @@
 {
-  "type": "crafting_shaped",
-  "group": "stone_brick_stairs",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "tag": "minecraft:stone_bricks"
-    }
-  },
-  "result": {
-    "item": "minecraft:stone_brick_stairs",
-    "count": 4
-  }
+	"type": "crafting_shaped",
+	"group": "stone_brick_stairs",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"tag": "lastblockorg:stone_bricks_nochiseled"
+		}
+	},
+	"result": {
+		"item": "minecraft:stone_brick_stairs",
+		"count": 4
+	}
 }

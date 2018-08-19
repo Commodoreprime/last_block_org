@@ -1,24 +1,24 @@
 {
-  "type": "crafting_shaped",
-  "group": "activator_rail",
-  "pattern": [
-    "XSX",
-    "X#X",
-    "XSX"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "S": {
-      "item": "minecraft:redstone_torch"
-    },
-    "X": {
-      "item": "minecraft:iron_ingot"
-    }
-  },
-  "result": {
-    "item": "minecraft:activator_rail",
-    "count": 6
-  }
+	"type": "crafting_shaped",
+	"group": "activator_rail",
+	"pattern": [
+		"XSX",
+		"X#X",
+		"XSX"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"S": {
+			"item": "minecraft:redstone_torch"
+		},
+		"X": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:activator_rail",
+		"count": 6
+	}
 }

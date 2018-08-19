@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "ice",
+    "pattern": [
+        "#S#",
+        "SHS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:water_bucket"
+        },
+        "S": {
+            "item": "minecraft:snow_block"
+        },
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        }
+    },
+    "result": {
+        "item": "minecraft:ice",
+        "count": 16
+    }
+}

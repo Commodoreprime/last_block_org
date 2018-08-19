@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "bookshelf",
+    "pattern": [
+        "___",
+        "BWE",
+        "___"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:oak_slab"
+        },
+        "B": {
+            "item": "minecraft:book"
+        },
+        "W": {
+            "item": "minecraft:writable_book"
+        },
+        "E": {
+            "item": "minecraft:enchanted_book"
+        }
+    },
+    "result": {
+        "item": "minecraft:bookshelf",
+        "count": 1
+    }
+}

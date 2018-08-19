@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+	"group": "crafting_table",
+    "pattern": [
+        "#S",
+        "GZ"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:shears"
+        },
+        "S": {
+            "item": "minecraft:spruce_pressure_plate"
+        },
+        "G": {
+            "item": "minecraft:stone_axe"
+        },
+        "Z": {
+            "item": "minecraft:stripped_oak_log"
+        }
+    },
+    "result": {
+        "item": "minecraft:crafting_table",
+        "count": 4
+    }
+}

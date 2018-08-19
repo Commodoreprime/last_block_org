@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "rail",
+    "pattern": [
+        "#L#",
+        "ILI",
+        "ILI"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:heavy_weighted_pressure_plate"
+        },
+        "L": {
+            "item": "minecraft:ladder"
+        },
+        "I": {
+            "item": "minecraft:iron_trapdoor"
+        }
+    },
+    "result": {
+        "item": "minecraft:rail",
+        "count": 64
+    }
+}

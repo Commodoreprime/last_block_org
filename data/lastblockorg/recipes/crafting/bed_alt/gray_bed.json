@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "gray_bed",
+    "pattern": [
+        " # ",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gray_dye"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:gray_bed",
+        "count": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "type": "smelting",
+	"group": "rose_red",
+    "ingredient": {
+        "item": "minecraft:red_mushroom"
+    },
+    "result": "minecraft:rose_red",
+    "experience": 0.1,
+    "cookingtime": 300
+}

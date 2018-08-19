@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "green_bed",
+    "pattern": [
+        " # ",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cactus_green"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:green_bed",
+        "count": 1
+    }
+}

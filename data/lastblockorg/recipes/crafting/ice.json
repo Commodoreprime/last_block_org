@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "ice",
+    "pattern": [
+        "#P#",
+        "#W#",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:snow_block"
+        },
+        "P": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:ice",
+        "count": 1
+    }
+}
