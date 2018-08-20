@@ -1,17 +1,17 @@
 {
     "type": "crafting_shaped",
-	"group": "cobblestone_slab",
+	"group": "acacia_planks",
     "pattern": [
         "##",
 		"##"
     ],
     "key": {
         "#": {
-            "item": "minecraft:cobblestone_stairs"
+            "item": "minecraft:acacia_stairs"
         }
     },
     "result": {
-        "item": "minecraft:cobblestone_slab",
-        "count": 5
+        "item": "minecraft:acacia_planks",
+        "count": 4
     }
 }

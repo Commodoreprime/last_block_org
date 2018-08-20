@@ -1,17 +1,17 @@
 {
     "type": "crafting_shaped",
-	"group": "acacia_slab",
+	"group": "spruce_planks",
     "pattern": [
         "##",
 		"##"
     ],
     "key": {
         "#": {
-            "item": "minecraft:acacia_stairs"
+            "item": "minecraft:spruce_stairs"
         }
     },
     "result": {
-        "item": "minecraft:acacia_slab",
+        "item": "minecraft:spruce_planks",
         "count": 4
     }
 }

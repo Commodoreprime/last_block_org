@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+	"group": "fire_charge",
+    "pattern": [
+        "#S#",
+        "GCG",
+        "#E#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:hay_block"
+        },
+        "S": {
+            "item": "minecraft:snow"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        },
+        "E": {
+            "item": "minecraft:charcoal"
+        }
+    },
+    "result": {
+        "item": "minecraft:fire_charge",
+        "count": 12
+    }
+}

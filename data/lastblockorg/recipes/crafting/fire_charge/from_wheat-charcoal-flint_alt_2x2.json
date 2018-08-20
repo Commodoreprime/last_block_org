@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+	"group": "fire_charge",
+    "pattern": [
+        "##",
+        "CF"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat"
+        },
+        "C": {
+            "item": "minecraft:charcoal"
+        },
+        "F": {
+            "item": "minecraft:flint"
+        }
+    },
+    "result": {
+        "item": "minecraft:fire_charge",
+        "count": 1
+    }
+}

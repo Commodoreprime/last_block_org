@@ -1,17 +1,17 @@
 {
     "type": "crafting_shaped",
-	"group": "brick_slab",
+	"group": "dark_oak_planks",
     "pattern": [
         "##",
 		"##"
     ],
     "key": {
         "#": {
-            "item": "minecraft:brick_stairs"
+            "item": "minecraft:dark_oak_stairs"
         }
     },
     "result": {
-        "item": "minecraft:brick_slab",
-        "count": 3
+        "item": "minecraft:dark_oak_planks",
+        "count": 4
     }
 }

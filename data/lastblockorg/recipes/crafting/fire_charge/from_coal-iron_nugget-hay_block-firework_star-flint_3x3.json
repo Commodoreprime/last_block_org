@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+	"group": "fire_charge",
+    "pattern": [
+        "###",
+        "IHI",
+        "FUF"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "F": {
+            "item": "minecraft:firework_star"
+        },
+        "U": {
+            "item": "minecraft:flint"
+        }
+    },
+    "result": {
+        "item": "minecraft:fire_charge",
+        "count": 4
+    }
+}

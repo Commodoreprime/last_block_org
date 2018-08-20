@@ -11,7 +11,7 @@
       "item": "minecraft:quartz"
     },
     "G": {
-      "item": "minecraft:glass"
+      "item": "minecraft:glass_pane"
     },
     "W": {
       "tag": "minecraft:wooden_slabs"

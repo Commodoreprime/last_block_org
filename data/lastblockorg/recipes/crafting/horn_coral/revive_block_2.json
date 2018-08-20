@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "horn_coral",
+	"group": "horn_coral_block",
 	"pattern": [
 		"###",
 		"#B#",
@@ -18,7 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:horn_coral",
-		"count": 4
+		"item": "minecraft:horn_coral_block",
+		"count": 1
 	}
 }

@@ -11,7 +11,7 @@
 			"item": "minecraft:glass_pane"
 		},
 		"O": [{
-				"item": "minecraft:oak_button"
+				"tag": "minecraft:wooden_buttons"
 			},
 			{
 				"item": "minecraft:rabbit_hide"

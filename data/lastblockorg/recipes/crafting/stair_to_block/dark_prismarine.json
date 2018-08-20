@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "dark_prismarine_slab",
+	"group": "dark_prismarine",
 	"pattern": [
 		"##",
 		"##"
@@ -11,7 +11,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:dark_prismarine_slab",
+		"item": "minecraft:dark_prismarine",
 		"count": 3
 	}
 }

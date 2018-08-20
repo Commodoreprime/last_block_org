@@ -1,20 +1,21 @@
 {
     "type": "crafting_shaped",
-	"group": "activator_rail",
+	"group": "iron_sword",
     "pattern": [
-        "#L#",
-        " # "
+        "#",
+        "#",
+        "/"
     ],
     "key": {
         "#": {
             "item": "minecraft:heavy_weighted_pressure_plate"
         },
-        "L": {
-            "item": "minecraft:ladder"
+        "/": {
+            "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:activator_rail",
-        "count": 16
+        "item": "minecraft:iron_sword",
+        "count": 1
     }
 }

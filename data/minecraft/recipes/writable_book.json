@@ -1,20 +1,24 @@
 {
-    "type": "crafting_shapeless",
+    "type": "crafting_shaped",
 	"group": "writable_book",
-    "ingredients": [
-        {
+    "pattern": [
+        "/F",
+        "IB"
+    ],
+    "key": {
+        "/": {
             "item": "minecraft:stick"
         },
-        {
+        "F": {
             "item": "minecraft:feather"
         },
-        {
+        "I": {
             "item": "minecraft:ink_sac"
         },
-        {
+        "B": {
             "item": "minecraft:book"
         }
-    ],
+    },
     "result": {
         "item": "minecraft:writable_book",
         "count": 1

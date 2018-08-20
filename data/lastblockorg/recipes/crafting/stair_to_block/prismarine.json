@@ -1,17 +1,17 @@
 {
     "type": "crafting_shaped",
-	"group": "prismarine_brick_slab",
+	"group": "prismarine",
     "pattern": [
         "##",
 		"##"
     ],
     "key": {
         "#": {
-            "item": "minecraft:prismarine_brick_stairs"
+            "item": "minecraft:prismarine_stairs"
         }
     },
     "result": {
-        "item": "minecraft:prismarine_brick_slab",
+        "item": "minecraft:prismarine",
         "count": 3
     }
 }

@@ -1,26 +1,19 @@
 {
-	"type": "crafting_shaped",
-	"group": "chest_minecart",
-	"pattern": [
-		"#A#",
-		"#_#"
-	],
-	"key": {
-		"#": {
-			"item": "minecraft:iron_ingot"
-		},
-		"A": [{
-				"item": "minecraft:chest"
-			},
-			{
-				"item": "minecraft:trapped_chest"
-			}
-		],
-		"_": {
-			"item": "minecraft:heavy_weighted_pressure_plate"
-		}
-	},
-	"result": {
-		"item": "minecraft:chest_minecart"
-	}
+  "type": "crafting_shaped",
+  "group": "chest_minecart",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:chest"
+    },
+    "B": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest_minecart"
+  }
 }

@@ -1,17 +1,17 @@
 {
     "type": "crafting_shaped",
-	"group": "purpur_slab",
+	"group": "birch_planks",
     "pattern": [
         "##",
 		"##"
     ],
     "key": {
         "#": {
-            "item": "minecraft:purpur_stairs"
+            "item": "minecraft:birch_stairs"
         }
     },
     "result": {
-        "item": "minecraft:purpur_slab",
-        "count": 3
+        "item": "minecraft:birch_planks",
+        "count": 4
     }
 }

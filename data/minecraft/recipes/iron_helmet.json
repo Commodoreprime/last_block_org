@@ -2,7 +2,7 @@
   "type": "crafting_shaped",
   "group": "iron_helmet",
   "pattern": [
-    "X-X",
+    "---",
     "X X"
   ],
   "key": {

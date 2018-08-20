@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "fire_coral",
+	"group": "fire_coral_block",
 	"pattern": [
 		"###",
 		"#B#",
@@ -18,7 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:fire_coral",
-		"count": 4
+		"item": "minecraft:fire_coral_block",
+		"count": 1
 	}
 }

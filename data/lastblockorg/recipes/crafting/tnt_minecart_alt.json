@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"group": "tnt_minecart",
+	"pattern": [
+		"#A#",
+		"#_#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_ingot"
+		},
+		"A": {
+			"item": "minecraft:tnt"
+		},
+		"_": {
+			"item": "minecraft:heavy_weighted_pressure_plate"
+		}
+	},
+	"result": {
+		"item": "minecraft:tnt_minecart"
+	}
+}

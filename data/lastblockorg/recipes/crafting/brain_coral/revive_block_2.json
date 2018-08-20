@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "brain_coral",
+	"group": "brain_coral_block",
 	"pattern": [
 		"###",
 		"#B#",
@@ -18,7 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:brain_coral",
-		"count": 4
+		"item": "minecraft:brain_coral_block",
+		"count": 1
 	}
 }

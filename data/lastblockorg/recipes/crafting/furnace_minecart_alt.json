@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"group": "furnace_minecart",
+	"pattern": [
+		"#A#",
+		"#_#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_ingot"
+		},
+		"A": {
+			"item": "minecraft:furnace"
+		},
+		"_": {
+			"item": "minecraft:heavy_weighted_pressure_plate"
+		}
+	},
+	"result": {
+		"item": "minecraft:furnace_minecart"
+	}
+}

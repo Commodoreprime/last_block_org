@@ -1,0 +1,10 @@
+{
+    "type": "smelting",
+	"group": "charcoal",
+    "ingredient": {
+        "item": "minecraft:hay_block"
+    },
+    "result": "minecraft:charcoal",
+    "experience": 0.1,
+    "cookingtime": 420
+}
