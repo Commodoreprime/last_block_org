@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "spruce_fence_gate",
+	"pattern": [
+		"#_#",
+		"#S#",
+		"#_#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"S": {
+			"item": "minecraft:spruce_stairs"
+		},
+		"_": {
+			"item": "minecraft:spruce_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:spruce_fence_gate"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"group": "acacia_fence",
+	"pattern": [
+		"_ _",
+		"W#W",
+		"W#W"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"W": {
+			"item": "minecraft:acacia_planks"
+		},
+		"_": {
+			"item": "minecraft:acacia_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:acacia_fence",
+		"count": 3
+	}
+}

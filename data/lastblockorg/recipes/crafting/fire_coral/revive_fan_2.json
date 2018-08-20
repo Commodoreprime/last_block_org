@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "bubble_coral",
+	"group": "fire_coral_fan",
 	"pattern": [
 		"GFG",
 		"KLK",
@@ -8,7 +8,7 @@
 	],
 	"key": {
 		"#": {
-			"item": "minecraft:dead_bubble_coral_fan"
+			"item": "minecraft:dead_fire_coral_fan"
 		},
 		"B": {
 			"item": "minecraft:bone_meal"
@@ -17,10 +17,13 @@
 			"item": "minecraft:kelp"
 		},
 		"F": [{
-				"item": "minecraft:allium"
+				"item": "minecraft:rose_bush"
 			},
 			{
-				"item": "minecraft:lilac"
+				"item": "minecraft:poppy"
+			},
+			{
+				"item": "minecraft:red_tulip"
 			}
 		],
 		"G": {
@@ -35,6 +38,6 @@
 		]
 	},
 	"result": {
-		"item": "minecraft:bubble_coral"
+		"item": "minecraft:fire_coral_fan"
 	}
 }

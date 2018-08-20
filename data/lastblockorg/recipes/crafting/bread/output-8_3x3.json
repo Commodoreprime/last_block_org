@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "P#P",
+        "FFF"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:hay_block"
+        },
+        "P": {
+            "item": "minecraft:packed_ice"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        }
+    },
+    "result": {
+        "item": "minecraft:bread",
+        "count": 8
+    }
+}

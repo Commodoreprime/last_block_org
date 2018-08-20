@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "oak_fence_gate",
+	"pattern": [
+		"#_#",
+		"#S#",
+		"#_#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"S": {
+			"item": "minecraft:oak_stairs"
+		},
+		"_": {
+			"item": "minecraft:oak_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:oak_fence_gate"
+	}
+}

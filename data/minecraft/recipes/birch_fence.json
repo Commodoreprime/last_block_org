@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"group": "birch_fence",
+	"pattern": [
+		"_ _",
+		"W#W",
+		"W#W"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"W": {
+			"item": "minecraft:birch_planks"
+		},
+		"_": {
+			"item": "minecraft:birch_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:birch_fence",
+		"count": 3
+	}
+}

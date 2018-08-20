@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "P#B",
+        "PFM"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar_cane"
+        },
+        "P": {
+            "item": "minecraft:packed_ice"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:paper",
+        "count": 8
+    }
+}

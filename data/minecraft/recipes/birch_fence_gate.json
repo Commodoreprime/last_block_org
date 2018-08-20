@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "birch_fence_gate",
+	"pattern": [
+		"#_#",
+		"#S#",
+		"#_#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"S": {
+			"item": "minecraft:birch_stairs"
+		},
+		"_": {
+			"item": "minecraft:birch_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:birch_fence_gate"
+	}
+}

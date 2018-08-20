@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "tube_coral",
+	"group": "brain_coral_fan",
 	"pattern": [
 		"GFG",
 		"KLK",
@@ -8,7 +8,7 @@
 	],
 	"key": {
 		"#": {
-			"item": "minecraft:dead_tube_coral_fan"
+			"item": "minecraft:dead_brain_coral_fan"
 		},
 		"B": {
 			"item": "minecraft:bone_meal"
@@ -16,9 +16,13 @@
 		"K": {
 			"item": "minecraft:kelp"
 		},
-		"F": {
-			"item": "minecraft:blue_orchid"
-		},
+		"F": [{
+				"item": "minecraft:peony"
+			},
+			{
+				"item": "minecraft:pink_tulip"
+			}
+		],
 		"G": {
 			"item": "minecraft:seagrass"
 		},
@@ -31,6 +35,6 @@
 		]
 	},
 	"result": {
-		"item": "minecraft:tube_coral"
+		"item": "minecraft:brain_coral_fan"
 	}
 }

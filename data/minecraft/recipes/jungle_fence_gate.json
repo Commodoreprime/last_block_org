@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "jungle_fence_gate",
+	"pattern": [
+		"#_#",
+		"#S#",
+		"#_#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"S": {
+			"item": "minecraft:jungle_stairs"
+		},
+		"_": {
+			"item": "minecraft:jungle_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:jungle_fence_gate"
+	}
+}

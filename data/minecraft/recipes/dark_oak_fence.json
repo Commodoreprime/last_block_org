@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"group": "dark_oak_fence",
+	"pattern": [
+		"_ _",
+		"W#W",
+		"W#W"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"W": {
+			"item": "minecraft:dark_oak_planks"
+		},
+		"_": {
+			"item": "minecraft:dark_oak_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:dark_oak_fence",
+		"count": 3
+	}
+}

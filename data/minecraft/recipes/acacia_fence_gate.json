@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "acacia_fence_gate",
+	"pattern": [
+		"#_#",
+		"#S#",
+		"#_#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"S": {
+			"item": "minecraft:acacia_stairs"
+		},
+		"_": {
+			"item": "minecraft:acacia_slab"
+		}
+	},
+	"result": {
+		"item": "minecraft:acacia_fence_gate"
+	}
+}
