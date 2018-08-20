@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "birch_button",
+	"group": "oak_button",
 	"pattern": [
 		"GGG",
 		"RSG",
@@ -8,7 +8,7 @@
 	],
 	"key": {
 		"S": {
-			"item": "minecraft:birch_planks"
+			"item": "minecraft:oak_planks"
 		},
 		"R": {
 			"item": "minecraft:redstone"
@@ -17,8 +17,8 @@
 			"item": "minecraft:gold_nugget"
 		}
 	},
-  "result": {
-		"item": "minecraft:birch_button",
+	"result": {
+		"item": "minecraft:oak_button",
 		"count": 5
-  }
+	}
 }

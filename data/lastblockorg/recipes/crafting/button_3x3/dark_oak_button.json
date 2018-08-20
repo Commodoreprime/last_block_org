@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "jungle_button",
+	"group": "dark_oak_button",
 	"pattern": [
 		"GGG",
 		"RSG",
@@ -8,7 +8,7 @@
 	],
 	"key": {
 		"S": {
-			"item": "minecraft:jungle_planks"
+			"item": "minecraft:dark_oak_planks"
 		},
 		"R": {
 			"item": "minecraft:redstone"
@@ -17,8 +17,8 @@
 			"item": "minecraft:gold_nugget"
 		}
 	},
-  "result": {
-		"item": "minecraft:jungle_button",
+	"result": {
+		"item": "minecraft:dark_oak_button",
 		"count": 5
-  }
+	}
 }

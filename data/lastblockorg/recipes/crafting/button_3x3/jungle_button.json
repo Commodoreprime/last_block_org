@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "spruce_button",
+	"group": "jungle_button",
 	"pattern": [
 		"GGG",
 		"RSG",
@@ -8,7 +8,7 @@
 	],
 	"key": {
 		"S": {
-			"item": "minecraft:spruce_planks"
+			"item": "minecraft:jungle_planks"
 		},
 		"R": {
 			"item": "minecraft:redstone"
@@ -17,8 +17,8 @@
 			"item": "minecraft:gold_nugget"
 		}
 	},
-  "result": {
-		"item": "minecraft:spruce_button",
+	"result": {
+		"item": "minecraft:jungle_button",
 		"count": 5
-  }
+	}
 }

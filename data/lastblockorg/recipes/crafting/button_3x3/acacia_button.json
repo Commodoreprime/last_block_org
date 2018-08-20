@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"group": "oak_button",
+	"group": "acacia_button",
 	"pattern": [
 		"GGG",
 		"RSG",
@@ -8,7 +8,7 @@
 	],
 	"key": {
 		"S": {
-			"item": "minecraft:oak_planks"
+			"item": "minecraft:acacia_planks"
 		},
 		"R": {
 			"item": "minecraft:redstone"
@@ -17,8 +17,8 @@
 			"item": "minecraft:gold_nugget"
 		}
 	},
-  "result": {
-		"item": "minecraft:oak_button",
+	"result": {
+		"item": "minecraft:acacia_button",
 		"count": 5
-  }
+	}
 }
