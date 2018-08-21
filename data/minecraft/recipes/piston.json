@@ -11,13 +11,13 @@
             "item": "minecraft:iron_ingot"
         },
         "O": {
-            "item": "minecraft:oak_trapdoor"
+            "tag": "lastblockorg:wooden_trapdoors"
         },
         "C": {
             "item": "minecraft:cobblestone"
         },
         "I": {
-            "item": "minecraft:oak_fence"
+            "tag": "lastblockorg:wooden_fence"
         },
         "P": {
             "item": "minecraft:polished_andesite"

@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "golden_pickaxe",
+    "pattern": [
+        "#L#",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_nugget"
+        },
+        "L": {
+            "item": "minecraft:light_weighted_pressure_plate"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_pickaxe",
+        "count": 1
+    }
+}

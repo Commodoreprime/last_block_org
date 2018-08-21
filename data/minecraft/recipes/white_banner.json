@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "group": "white_banner",
+  "pattern": [
+    "#",
+    "#",
+    "|"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_wool"
+    },
+    "|": {
+      "tag": "lastblockorg:wooden_fence"
+    },
+  },
+  "result": {
+    "item": "minecraft:white_banner"
+  }
+}

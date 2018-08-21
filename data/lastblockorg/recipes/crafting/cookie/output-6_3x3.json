@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "cookie",
+    "pattern": [
+        "###",
+        "E#S",
+        "WWW"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cocoa_beans"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        }
+    },
+    "result": {
+        "item": "minecraft:cookie",
+        "count": 6
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"group": "elytra",
+	"ingredients": [{
+		"item": "minecraft:dragon_egg"
+	}],
+	"result": {
+		"item": "minecraft:elytra",
+		"count": 1
+	}
+}

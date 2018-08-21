@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "golden_leggings",
+    "pattern": [
+        "gLg",
+        "G G",
+        "G G"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "L": {
+            "item": "minecraft:light_weighted_pressure_plate"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_leggings",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "golden_sword",
+    "pattern": [
+        "#",
+        "g",
+        "/"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_weighted_pressure_plate"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_sword",
+        "count": 1
+    }
+}

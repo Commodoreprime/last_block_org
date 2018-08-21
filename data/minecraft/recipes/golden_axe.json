@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "golden_axe",
+    "pattern": [
+        "#G",
+        "#/",
+        " /"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_weighted_pressure_plate"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_axe",
+        "count": 1
+    }
+}

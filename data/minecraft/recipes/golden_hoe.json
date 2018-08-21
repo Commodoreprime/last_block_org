@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "golden_hoe",
+    "pattern": [
+        "#g",
+        " /",
+        " /"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_nugget"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_hoe",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+	"type": "crafting_shaped",
+	"group": "shulker_box",
+	"pattern": [
+		"#S#",
+		"#C#",
+		"#S#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:popped_chorus_fruit"
+		},
+		"S": {
+			"item": "minecraft:shulker_shell"
+		},
+		"C": [{
+				"item": "minecraft:chest"
+			},
+			{
+				"item": "minecraft:trapped_chest"
+			}
+		]
+	},
+	"result": {
+		"item": "minecraft:shulker_box",
+		"count": 1
+	}
+}
