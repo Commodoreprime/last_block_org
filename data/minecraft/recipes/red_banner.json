@@ -1,20 +1,20 @@
 {
-  "type": "crafting_shaped",
-  "group": "red_banner",
-  "pattern": [
-    "#",
-    "#",
-    "|"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:red_wool"
-    },
-    "|": {
-      "tag": "lastblockorg:wooden_fence"
-    },
-  },
-  "result": {
-    "item": "minecraft:red_banner"
-  }
+	"type": "crafting_shaped",
+	"group": "red_banner",
+	"pattern": [
+		"#",
+		"#",
+		"|"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:red_wool"
+		},
+		"|": {
+			"tag": "lastblockorg:wooden_fence"
+		}
+	},
+	"result": {
+		"item": "minecraft:red_banner"
+	}
 }
