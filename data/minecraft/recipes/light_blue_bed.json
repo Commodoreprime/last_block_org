@@ -1,19 +1,27 @@
 {
-  "type": "crafting_shaped",
-  "group": "light_blue_bed",
-  "pattern": [
-    "###",
-    "XXX"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:light_blue_wool"
+    "type": "crafting_shaped",
+	"group": "light_blue_bed",
+    "pattern": [
+        "##W",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_blue_carpet"
+        },
+        "W": {
+            "item": "minecraft:white_carpet"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
     },
-    "X": {
-      "tag": "lastblockorg:slabs"
+    "result": {
+        "item": "minecraft:light_blue_bed",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:light_blue_bed"
-  }
 }

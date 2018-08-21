@@ -1,19 +1,27 @@
 {
-  "type": "crafting_shaped",
-  "group": "yellow_bed",
-  "pattern": [
-    "###",
-    "XXX"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:yellow_wool"
+    "type": "crafting_shaped",
+	"group": "yellow_bed",
+    "pattern": [
+        "##W",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:yellow_carpet"
+        },
+        "W": {
+            "item": "minecraft:white_carpet"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
     },
-    "X": {
-      "tag": "lastblockorg:slabs"
+    "result": {
+        "item": "minecraft:yellow_bed",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:yellow_bed"
-  }
 }

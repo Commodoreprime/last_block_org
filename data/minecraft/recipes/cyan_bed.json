@@ -1,19 +1,27 @@
 {
-  "type": "crafting_shaped",
-  "group": "cyan_bed",
-  "pattern": [
-    "###",
-    "XXX"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:cyan_wool"
+    "type": "crafting_shaped",
+	"group": "cyan_bed",
+    "pattern": [
+        "##W",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cyan_carpet"
+        },
+        "W": {
+            "item": "minecraft:white_carpet"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
     },
-    "X": {
-      "tag": "lastblockorg:slabs"
+    "result": {
+        "item": "minecraft:cyan_bed",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:cyan_bed"
-  }
 }

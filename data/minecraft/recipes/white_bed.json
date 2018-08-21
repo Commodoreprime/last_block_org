@@ -1,19 +1,24 @@
 {
-  "type": "crafting_shaped",
-  "group": "white_bed",
-  "pattern": [
-    "###",
-    "XXX"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:white_wool"
+    "type": "crafting_shaped",
+	"group": "white_bed",
+    "pattern": [
+        "###",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_carpet"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
     },
-    "X": {
-      "tag": "lastblockorg:slabs"
+    "result": {
+        "item": "minecraft:white_bed",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:white_bed"
-  }
 }

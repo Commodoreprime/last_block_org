@@ -1,19 +1,27 @@
 {
-  "type": "crafting_shaped",
-  "group": "pink_bed",
-  "pattern": [
-    "###",
-    "XXX"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:pink_wool"
+    "type": "crafting_shaped",
+	"group": "pink_bed",
+    "pattern": [
+        "##W",
+        "HHH",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pink_carpet"
+        },
+        "W": {
+            "item": "minecraft:white_carpet"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
     },
-    "X": {
-      "tag": "lastblockorg:slabs"
+    "result": {
+        "item": "minecraft:pink_bed",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:pink_bed"
-  }
 }
