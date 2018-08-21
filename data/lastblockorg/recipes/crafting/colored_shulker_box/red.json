@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "red_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rose_red"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_shulker_box",
+        "count": 1
+    }
+}

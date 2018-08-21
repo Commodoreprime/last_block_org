@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "magenta_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:magenta_dye"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:magenta_shulker_box",
+        "count": 1
+    }
+}

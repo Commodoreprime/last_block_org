@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "white_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_shulker_box",
+        "count": 1
+    }
+}

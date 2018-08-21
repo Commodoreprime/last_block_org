@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "brown_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cocoa_beans"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:brown_shulker_box",
+        "count": 1
+    }
+}

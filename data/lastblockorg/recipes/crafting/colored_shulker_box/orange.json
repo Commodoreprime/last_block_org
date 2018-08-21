@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "orange_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:orange_dye"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:orange_shulker_box",
+        "count": 1
+    }
+}

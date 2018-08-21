@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "purple_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:purple_dye"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:purple_shulker_box",
+        "count": 1
+    }
+}

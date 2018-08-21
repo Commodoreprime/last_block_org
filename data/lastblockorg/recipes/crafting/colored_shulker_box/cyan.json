@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "cyan_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cyan_dye"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:cyan_shulker_box",
+        "count": 1
+    }
+}

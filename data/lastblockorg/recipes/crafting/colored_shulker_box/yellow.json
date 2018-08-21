@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "yellow_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dandelion_yellow"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:yellow_shulker_box",
+        "count": 1
+    }
+}

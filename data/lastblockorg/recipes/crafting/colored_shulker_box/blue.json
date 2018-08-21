@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "blue_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:blue_shulker_box",
+        "count": 1
+    }
+}

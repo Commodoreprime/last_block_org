@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "lime_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lime_dye"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:lime_shulker_box",
+        "count": 1
+    }
+}

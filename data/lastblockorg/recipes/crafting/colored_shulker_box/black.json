@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "black_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ink_sac"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:black_shulker_box",
+        "count": 1
+    }
+}

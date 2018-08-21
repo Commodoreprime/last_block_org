@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "pink_shulker_box",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pink_dye"
+        },
+        "P": {
+            "item": "minecraft:shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:pink_shulker_box",
+        "count": 1
+    }
+}
