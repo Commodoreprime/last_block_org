@@ -1,17 +1,1 @@
-{
-  "type": "crafting_shaped",
-  "group": "white_wool",
-  "pattern": [
-    "###",
-    "###",
-	"###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:string"
-    }
-  },
-  "result": {
-    "item": "minecraft:white_wool"
-  }
-}
+{}

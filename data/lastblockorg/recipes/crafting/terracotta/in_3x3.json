@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "terracotta",
+    "pattern": [
+        "#P#",
+        "PRP",
+        "#F#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:clay"
+        },
+        "P": {
+            "item": "minecraft:polished_granite"
+        },
+        "R": {
+            "item": "minecraft:red_sand"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        }
+    },
+    "result": {
+        "item": "minecraft:terracotta",
+        "count": 1
+    }
+}
