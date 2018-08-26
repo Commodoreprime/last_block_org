@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "enchanted_book",
+    "pattern": [
+        "#B#",
+        "FWF",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_nugget"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "F": {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        "W": {
+            "item": "minecraft:writable_book"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanted_book",
+        "count": 1
+    }
+}
