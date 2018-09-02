@@ -29,6 +29,7 @@ recipe take @s lastblockorg:crafting/diamond_ore
 recipe take @s lastblockorg:crafting/dragon_egg
 recipe take @s lastblockorg:crafting/elytry
 recipe take @s lastblockorg:crafting/emerald_ore
+recipe take @s lastblockorg:crafting/enchanted_book
 recipe take @s lastblockorg:crafting/end_portal_frame
 recipe take @s lastblockorg:crafting/furnace_minecart_alt
 recipe take @s lastblockorg:crafting/gold_ore
