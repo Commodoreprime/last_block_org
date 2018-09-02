@@ -8,7 +8,7 @@
     ],
     "key": {
         "_": {
-            "item": "minecraft:oak_slab"
+            "tag": "minecraft:wooden_slabs"
         },
         "B": {
             "item": "minecraft:book"
