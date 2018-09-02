@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "orange_stained_glass_pane",
+    "pattern": [
+        "#GF",
+        "GGG",
+        "GLG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:horn_coral_fan"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "F": {
+            "item": "minecraft:fire_coral_fan"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:orange_stained_glass_pane",
+        "count": 5
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "light_gray_stained_glass_pane",
+    "pattern": [
+        "#G#",
+        "GGG",
+        "GLG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dead_horn_coral_fan"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:light_gray_stained_glass_pane",
+        "count": 5
+    }
+}

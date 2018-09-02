@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "lime_stained_glass_pane",
+    "pattern": [
+        "#G#",
+        "GGG",
+        "GBG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:slime_ball"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:lime_stained_glass_pane",
+        "count": 5
+    }
+}

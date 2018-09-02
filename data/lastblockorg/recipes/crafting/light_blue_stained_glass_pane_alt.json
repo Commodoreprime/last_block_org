@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "light_blue_stained_glass_pane",
+    "pattern": [
+        "#GT",
+        "GGG",
+        "GBG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_blue_dye"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "T": {
+            "item": "minecraft:tube_coral"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:light_blue_stained_glass_pane",
+        "count": 5
+    }
+}

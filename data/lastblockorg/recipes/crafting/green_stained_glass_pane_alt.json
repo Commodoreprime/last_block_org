@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "green_stained_glass_pane",
+    "pattern": [
+        "#GC",
+        "GGG",
+        "GBG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar_cane"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "C": {
+            "item": "minecraft:cactus_green"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:green_stained_glass_pane",
+        "count": 5
+    }
+}
