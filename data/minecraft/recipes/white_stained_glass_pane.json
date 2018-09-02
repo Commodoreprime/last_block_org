@@ -1,27 +1,17 @@
 {
-    "type": "crafting_shaped",
-	"group": "white_stained_glass_pane",
-    "pattern": [
-        "#GB",
-        "GGG",
-        "GRG"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:light_gray_dye"
-        },
-        "G": {
-            "item": "minecraft:glass_pane"
-        },
-        "B": {
-            "item": "minecraft:bone_block"
-        },
-        "R": {
-            "item": "minecraft:blaze_powder"
-        }
-    },
-    "result": {
-        "item": "minecraft:white_stained_glass_pane",
-        "count": 1
+  "type": "crafting_shaped",
+  "group": "white_stained_glass_pane",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_stained_glass"
     }
+  },
+  "result": {
+    "item": "minecraft:white_stained_glass_pane",
+    "count": 1
+  }
 }

@@ -1,24 +1,17 @@
 {
-    "type": "crafting_shaped",
-	"group": "pink_stained_glass_pane",
-    "pattern": [
-        "#G#",
-        "GGG",
-        "GBG"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:brain_coral_fan"
-        },
-        "G": {
-            "item": "minecraft:glass_pane"
-        },
-        "B": {
-            "item": "minecraft:blaze_powder"
-        }
-    },
-    "result": {
-        "item": "minecraft:pink_stained_glass_pane",
-        "count": 1
+  "type": "crafting_shaped",
+  "group": "pink_stained_glass_pane",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pink_stained_glass"
     }
+  },
+  "result": {
+    "item": "minecraft:pink_stained_glass_pane",
+    "count": 1
+  }
 }
