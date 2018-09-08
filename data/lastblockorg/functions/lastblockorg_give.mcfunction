@@ -52,7 +52,6 @@ recipe give @s lastblockorg:crafting/ice_alt
 recipe give @s lastblockorg:crafting/iron_ore
 recipe give @s lastblockorg:crafting/jukebox_from_note_block
 recipe give @s lastblockorg:crafting/lapis_ore
-recipe give @s lastblockorg:crafting/lead_alt
 recipe give @s lastblockorg:crafting/leather_scrap
 recipe give @s lastblockorg:crafting/lever_alt
 recipe give @s lastblockorg:crafting/lever_alt_alt
@@ -214,6 +213,10 @@ recipe give @s lastblockorg:crafting/horn_coral/revive_block_2
 recipe give @s lastblockorg:crafting/horn_coral/revive_fan
 recipe give @s lastblockorg:crafting/horn_coral/revive_fan_2
 recipe give @s lastblockorg:crafting/horn_coral/revive_plant
+recipe give @s lastblockorg:crafting/lead/lead_3x3
+recipe give @s lastblockorg:crafting/lead/lead_3x3_alt
+recipe give @s lastblockorg:crafting/lead/lead_3x3_alt2
+recipe give @s lastblockorg:crafting/lead/lead_3x3_alt3
 recipe give @s lastblockorg:crafting/paper/output-3_3x3
 recipe give @s lastblockorg:crafting/paper/output-8_3x3
 recipe give @s lastblockorg:crafting/planks_from_axe/acacia_planks
