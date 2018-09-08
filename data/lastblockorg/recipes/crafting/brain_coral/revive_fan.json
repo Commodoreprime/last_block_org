@@ -1,35 +1,30 @@
 {
-	"type": "crafting_shaped",
+    "type": "crafting_shaped",
 	"group": "brain_coral_fan",
-	"pattern": [
-		"G#G",
-		"FBS",
-		"KWK"
-	],
-	"key": {
-		"G": {
-			"item": "minecraft:seagrass"
-		},
-		"#": {
-			"item": "minecraft:dead_brain_coral_fan"
-		},
-		"F": {
-			"item": "minecraft:fern"
-		},
-		"B": {
-			"item": "minecraft:bone"
-		},
-		"S": {
-			"item": "minecraft:sea_pickle"
-		},
-		"K": {
-			"item": "minecraft:kelp"
-		},
-		"W": {
-			"item": "minecraft:pink_wool"
-		}
-	},
-	"result": {
-		"item": "minecraft:brain_coral_fan"
-	}
+    "pattern": [
+        "#S#",
+        "KDK",
+        "SRS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "S": {
+            "item": "minecraft:sea_pickle"
+        },
+        "K": {
+            "item": "minecraft:kelp"
+        },
+        "D": {
+            "item": "minecraft:dead_brain_coral_fan"
+        },
+        "R": {
+            "item": "minecraft:pink_wool"
+        }
+    },
+    "result": {
+        "item": "minecraft:brain_coral_fan",
+        "count": 1
+    }
 }
