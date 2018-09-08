@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "lead",
+    "pattern": [
+        "#KC",
+        "K#K",
+        "CK#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "K": {
+            "item": "minecraft:kelp"
+        },
+        "C": {
+            "item": "minecraft:charcoal"
+        }
+    },
+    "result": {
+        "item": "minecraft:lead",
+        "count": 1
+    }
+}

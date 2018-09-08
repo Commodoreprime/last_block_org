@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "lead",
+    "pattern": [
+        "#S ",
+        "S#S",
+        " S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:grass"
+        },
+        "S": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:lead",
+        "count": 1
+    }
+}
