@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "beetroot_seeds",
+    "pattern": [
+        "###",
+        "#R#",
+        "SSS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:kelp"
+        },
+        "R": {
+            "item": "minecraft:red_mushroom"
+        },
+        "S": {
+            "item": "minecraft:seagrass"
+        }
+    },
+    "result": {
+        "item": "minecraft:beetroot_seeds",
+        "count": 6
+    }
+}

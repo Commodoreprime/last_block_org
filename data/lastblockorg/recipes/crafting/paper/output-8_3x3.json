@@ -1,5 +1,6 @@
 {
     "type": "crafting_shaped",
+	"group": "paper",
     "pattern": [
         "###",
         "P#B",
@@ -10,7 +11,7 @@
             "item": "minecraft:sugar_cane"
         },
         "P": {
-            "item": "minecraft:packed_ice"
+            "item": "minecraft:ice"
         },
         "B": {
             "item": "minecraft:bone_meal"

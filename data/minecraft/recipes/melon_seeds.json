@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"group": "melon_seeds",
+	"ingredients": [{
+		"item": "minecraft:melon_slice"
+	}],
+	"result": {
+		"item": "minecraft:melon_seeds"
+	}
+}

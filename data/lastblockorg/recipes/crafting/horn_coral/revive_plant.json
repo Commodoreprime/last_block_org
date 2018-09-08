@@ -1,26 +1,30 @@
 {
-	"type": "crafting_shaped",
+    "type": "crafting_shaped",
 	"group": "horn_coral",
-	"pattern": [
-		"MBM",
-		"#D#",
-		"MBM"
-	],
-	"key": {
-		"B": {
-			"item": "minecraft:bone"
-		},
-		"M": {
-			"item": "minecraft:bone_meal"
-		},
-		"#": {
-			"item": "minecraft:dead_horn_coral_block"
-		},
-		"D": {
-			"item": "minecraft:dandelion_yellow"
-		}
-	},
-	"result": {
-		"item": "minecraft:horn_coral"
-	}
+    "pattern": [
+        "#B#",
+        "BGB",
+        "SPS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dandelion_yellow"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "G": {
+            "item": "minecraft:dead_horn_coral"
+        },
+        "S": {
+            "item": "minecraft:seagrass"
+        },
+        "P": {
+            "item": "minecraft:sea_pickle"
+        }
+    },
+    "result": {
+        "item": "minecraft:horn_coral",
+        "count": 1
+    }
 }

@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+	"group": "bow",
+    "pattern": [
+        " /L",
+        "/ L",
+        " /L"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "L": {
+            "item": "minecraft:lead"
+        }
+    },
+    "result": {
+        "item": "minecraft:bow",
+        "count": 2
+    }
+}

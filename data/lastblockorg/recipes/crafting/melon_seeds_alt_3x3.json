@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+	"group": "melon_seeds",
+    "pattern": [
+        "#A#",
+        "#P#",
+        "SRS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:kelp"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        },
+        "P": {
+            "item": "minecraft:pufferfish"
+        },
+        "S": {
+            "item": "minecraft:seagrass"
+        },
+        "R": {
+            "item": "minecraft:sea_pickle"
+        }
+    },
+    "result": {
+        "item": "minecraft:melon_seeds",
+        "count": 1
+    }
+}

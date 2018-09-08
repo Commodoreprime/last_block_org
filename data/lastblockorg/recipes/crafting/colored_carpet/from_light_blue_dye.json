@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+	"group": "light_blue_carpet",
+    "pattern": [
+        "#",
+        "W"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_blue_dye"
+        },
+        "W": {
+            "item": "minecraft:white_carpet"
+        }
+    },
+    "result": {
+        "item": "minecraft:light_blue_carpet",
+        "count": 1
+    }
+}

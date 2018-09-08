@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "torch",
+    "pattern": [
+        "#FP",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:flint"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        },
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:torch",
+        "count": 32
+    }
+}

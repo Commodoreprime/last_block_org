@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+	"group": "purple_carpet",
+    "pattern": [
+        " # ",
+        "SSS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:purple_dye"
+        },
+        "S": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:purple_carpet",
+        "count": 1
+    }
+}

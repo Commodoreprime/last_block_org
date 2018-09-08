@@ -1,0 +1,33 @@
+{
+    "type": "crafting_shaped",
+	"group": "clock",
+    "pattern": [
+        "#gP",
+        "gCg",
+        "LgI"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dandelion_yellow"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "P": {
+            "item": "minecraft:polished_diorite"
+        },
+        "C": {
+            "item": "minecraft:comparator"
+        },
+        "L": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "I": {
+            "item": "minecraft:ink_sac"
+        }
+    },
+    "result": {
+        "item": "minecraft:clock",
+        "count": 1
+    }
+}

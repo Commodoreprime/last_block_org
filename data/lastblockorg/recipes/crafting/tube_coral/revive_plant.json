@@ -1,26 +1,30 @@
 {
-	"type": "crafting_shaped",
+    "type": "crafting_shaped",
 	"group": "tube_coral",
-	"pattern": [
-		"MBM",
-		"#D#",
-		"MBM"
-	],
-	"key": {
-		"B": {
-			"item": "minecraft:bone"
-		},
-		"M": {
-			"item": "minecraft:bone_meal"
-		},
-		"#": {
-			"item": "minecraft:dead_tube_coral_block"
-		},
-		"D": {
-			"item": "minecraft:light_blue_dye"
-		}
-	},
-	"result": {
-		"item": "minecraft:tube_coral"
-	}
+    "pattern": [
+        "#B#",
+        "BGB",
+        "SPS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_blue_dye"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "G": {
+            "item": "minecraft:dead_tube_coral"
+        },
+        "S": {
+            "item": "minecraft:seagrass"
+        },
+        "P": {
+            "item": "minecraft:sea_pickle"
+        }
+    },
+    "result": {
+        "item": "minecraft:tube_coral",
+        "count": 1
+    }
 }

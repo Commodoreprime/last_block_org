@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "compass",
+    "pattern": [
+        "#i ",
+        "iCi",
+        " iG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rose_red"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "minecraft:comparator"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:compass",
+        "count": 1
+    }
+}

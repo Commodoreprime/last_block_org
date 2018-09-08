@@ -1,0 +1,41 @@
+{
+    "type": "crafting_shaped",
+	"group": "fishing_rod",
+    "pattern": [
+        "  /",
+        " /L",
+        "/iG"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "L": {
+            "item": "minecraft:lead"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "G": [
+			{
+				"item": "minecraft:gold_nugget"
+			},
+			{
+				"item": "minecraft:tripwire_hook"
+			},
+			{
+				"item": "minecraft:polished_andesite"
+			},
+			{
+				"item": "minecraft:polished_diorite"
+			},
+			{
+				"item": "minecraft:polished_granite"
+			}
+		]
+    },
+    "result": {
+        "item": "minecraft:fishing_rod",
+        "count": 1
+    }
+}
