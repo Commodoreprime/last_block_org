@@ -1,18 +1,17 @@
 {
     "type": "crafting_shaped",
-	"group":"jungle_slab",
+	"group":"birch_door",
     "pattern": [
         "#",
-        "#",
-		"#"
+        "#"
     ],
     "key": {
         "#": {
-            "item": "minecraft:jungle_trapdoor"
+            "item": "minecraft:birch_trapdoor"
         }
     },
     "result": {
-        "item": "minecraft:jungle_slab",
+        "item": "minecraft:birch_door",
         "count": 1
     }
 }

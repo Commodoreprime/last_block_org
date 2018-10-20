@@ -3,7 +3,8 @@
 	"group":"dark_oak_slab",
     "pattern": [
         "#",
-        "#"
+        "#",
+		"#"
     ],
     "key": {
         "#": {

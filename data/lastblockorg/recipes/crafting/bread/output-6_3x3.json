@@ -2,22 +2,25 @@
     "type": "crafting_shaped",
     "pattern": [
         "###",
-        "P#P",
-        "FFF"
+        "#H#",
+        "FPF"
     ],
     "key": {
         "#": {
-            "item": "minecraft:hay_block"
+            "item": "minecraft:wheat"
         },
-        "P": {
-            "item": "minecraft:ice"
+        "H": {
+            "item": "minecraft:hay_block"
         },
         "F": {
             "item": "minecraft:fire_charge"
+        },
+        "P": {
+            "item": "minecraft:ice"
         }
     },
     "result": {
         "item": "minecraft:bread",
-        "count": 8
+        "count": 6
     }
 }

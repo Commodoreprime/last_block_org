@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "clay_ball",
+    "pattern": [
+        "#D#",
+        "DWD",
+        "DPD"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gravel"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "P": {
+            "item": "minecraft:polished_granite"
+        }
+    },
+    "result": {
+        "item": "minecraft:clay_ball",
+        "count": 4
+    }
+}

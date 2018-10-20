@@ -1,18 +1,17 @@
 {
     "type": "crafting_shaped",
-	"group":"jungle_slab",
+	"group":"spruce_door",
     "pattern": [
         "#",
-        "#",
-		"#"
+        "#"
     ],
     "key": {
         "#": {
-            "item": "minecraft:jungle_trapdoor"
+            "item": "minecraft:spruce_trapdoor"
         }
     },
     "result": {
-        "item": "minecraft:jungle_slab",
+        "item": "minecraft:spruce_door",
         "count": 1
     }
 }

@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+	"group": "saddle",
+    "pattern": [
+        "###",
+        "LIL",
+        "T T"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather_chestplate"
+        },
+        "L": {
+            "item": "minecraft:lead"
+        },
+        "I": {
+            "item": "minecraft:iron_trapdoor"
+        },
+        "T": {
+            "item": "minecraft:tripwire_hook"
+        }
+    },
+    "result": {
+        "item": "minecraft:saddle",
+        "count": 1
+    }
+}

@@ -1,10 +1,9 @@
 {
     "type": "crafting_shaped",
-	"group":"jungle_planks",
+	"group":"jungle_door",
     "pattern": [
-        "###",
-        "###",
-		"###"
+        "#",
+        "#"
     ],
     "key": {
         "#": {
@@ -12,7 +11,7 @@
         }
     },
     "result": {
-        "item": "minecraft:jungle_planks",
-        "count": 3
+        "item": "minecraft:jungle_door",
+        "count": 1
     }
 }

@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+	"group": "clay_ball",
+    "pattern": [
+        "#W#",
+        "DID",
+        "DGD"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gravel"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:clay_ball",
+        "count": 1
+    }
+}

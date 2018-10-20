@@ -1,0 +1,33 @@
+{
+    "type": "crafting_shaped",
+	"group": "pumpkin_pie",
+    "pattern": [
+        "#W#",
+        "ESE",
+        "FMF"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pumpkin"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        }
+    },
+    "result": {
+        "item": "minecraft:pumpkin_pie",
+        "count": 4
+    }
+}

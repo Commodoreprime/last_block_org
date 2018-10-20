@@ -8,7 +8,7 @@
 	],
 	"key": {
 		"B": {
-			"item": "minecraft:book"
+			"item": "minecraft:writable_book"
 		},
 		"#": {
 			"item": "minecraft:obsidian"

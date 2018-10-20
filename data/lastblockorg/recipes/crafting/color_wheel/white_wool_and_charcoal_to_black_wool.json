@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+	"group": "black_wool",
+    "pattern": [
+        "##",
+        "W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:charcoal"
+        },
+        "W": {
+            "item": "minecraft:white_wool"
+        }
+    },
+    "result": {
+        "item": "minecraft:black_wool",
+        "count": 1
+    }
+}

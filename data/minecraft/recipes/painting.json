@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"group": "painting",
+	"pattern": [
+		"###",
+		"#X#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"X": {
+			"tag": "minecraft:carpets"
+		}
+	},
+	"result": {
+		"item": "minecraft:painting"
+	}
+}

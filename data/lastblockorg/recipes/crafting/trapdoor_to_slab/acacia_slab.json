@@ -3,7 +3,8 @@
 	"group":"acacia_slab",
     "pattern": [
         "#",
-        "#"
+        "#",
+		"#"
     ],
     "key": {
         "#": {

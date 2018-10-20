@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+	"group": "mushroom_stem",
+    "pattern": [
+        "#R#",
+        "#B#",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "R": {
+            "item": "minecraft:red_mushroom_block"
+        },
+        "B": {
+            "item": "minecraft:brown_mushroom_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:mushroom_stem",
+        "count": 2
+    }
+}

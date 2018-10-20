@@ -1,18 +1,17 @@
 {
     "type": "crafting_shaped",
-	"group":"jungle_slab",
+	"group":"acacia_door",
     "pattern": [
         "#",
-        "#",
-		"#"
+        "#"
     ],
     "key": {
         "#": {
-            "item": "minecraft:jungle_trapdoor"
+            "item": "minecraft:acacia_trapdoor"
         }
     },
     "result": {
-        "item": "minecraft:jungle_slab",
+        "item": "minecraft:acacia_door",
         "count": 1
     }
 }

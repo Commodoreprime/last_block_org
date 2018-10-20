@@ -3,7 +3,8 @@
 	"group":"spruce_slab",
     "pattern": [
         "#",
-        "#"
+        "#",
+		"#"
     ],
     "key": {
         "#": {

@@ -2,8 +2,9 @@
     "type": "crafting_shaped",
 	"group":"birch_planks",
     "pattern": [
-        "##",
-        "##"
+        "###",
+        "###",
+		"###"
     ],
     "key": {
         "#": {
@@ -12,6 +13,6 @@
     },
     "result": {
         "item": "minecraft:birch_planks",
-        "count": 1
+        "count": 3
     }
 }

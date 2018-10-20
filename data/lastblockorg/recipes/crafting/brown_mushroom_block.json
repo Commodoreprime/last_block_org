@@ -1,0 +1,28 @@
+{
+	"type": "crafting_shaped",
+	"group": "brown_mushroom_block",
+	"pattern": [
+		"###",
+		"#M#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:brown_mushroom"
+		},
+		"M": [{
+				"item": "minecraft:bone_block"
+			},
+			{
+				"item": "minecraft:podzol"
+			},
+			{
+				"item": "minecraft:mycelium"
+			}
+		]
+	},
+	"result": {
+		"item": "minecraft:brown_mushroom_block",
+		"count": 1
+	}
+}

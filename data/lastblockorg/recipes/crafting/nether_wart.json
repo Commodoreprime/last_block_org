@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+	"group": "nether_wart",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_wart_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_wart",
+        "count": 2
+    }
+}
