@@ -1,6 +1,6 @@
 {
 	"type": "smelting",
-	"group": "coal",
+	"group": "charcoal",
 	"ingredient": {
 		"item": "minecraft:dried_kelp_block"
 	},

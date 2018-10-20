@@ -1,5 +1,6 @@
 {
     "type": "smelting",
+	"group": "orange_dye",
     "ingredient": {
         "item": "minecraft:pumpkin"
     },
