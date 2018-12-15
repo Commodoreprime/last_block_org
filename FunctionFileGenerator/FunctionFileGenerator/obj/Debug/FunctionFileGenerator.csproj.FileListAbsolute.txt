@@ -1,7 +1,0 @@
-C:\Users\Commodore\source\repos\FunctionFileGenerator\FunctionFileGenerator\bin\Debug\FunctionFileGenerator.exe.config
-C:\Users\Commodore\source\repos\FunctionFileGenerator\FunctionFileGenerator\bin\Debug\FunctionFileGenerator.exe
-C:\Users\Commodore\source\repos\FunctionFileGenerator\FunctionFileGenerator\bin\Debug\FunctionFileGenerator.pdb
-C:\Users\Commodore\source\repos\FunctionFileGenerator\FunctionFileGenerator\obj\Debug\FunctionFileGenerator.csprojAssemblyReference.cache
-C:\Users\Commodore\source\repos\FunctionFileGenerator\FunctionFileGenerator\obj\Debug\FunctionFileGenerator.csproj.CoreCompileInputs.cache
-C:\Users\Commodore\source\repos\FunctionFileGenerator\FunctionFileGenerator\obj\Debug\FunctionFileGenerator.exe
-C:\Users\Commodore\source\repos\FunctionFileGenerator\FunctionFileGenerator\obj\Debug\FunctionFileGenerator.pdb
